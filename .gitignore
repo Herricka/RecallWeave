@@ -1,0 +1,18 @@
+# Rust
+/target
+**/*.rs.bk
+Cargo.lock
+
+# the runnable demo regenerates this store; it is not source
+/examples/demo-store/
+
+# Node / TypeScript viewer
+/viewer/node_modules/
+/viewer/dist/
+package-lock.json
+
+# editor / OS cruft
+.DS_Store
+*.swp
+.idea/
+.vscode/

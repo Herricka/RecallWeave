@@ -1,0 +1,98 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  engine:
+    name: Rust engine
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: examples/Achievements/projects/recallweave
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Rust toolchain
+        uses: dtolnay/rust-toolchain@stable
+        with:
+          components: clippy, rustfmt
+
+      - name: Cache cargo
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cargo/registry
+            ~/.cargo/git
+            examples/Achievements/projects/recallweave/target
+          key: ${{ runner.os }}-cargo-${{ hashFiles('**/Cargo.toml') }}
+
+      - name: Format check
+        run: cargo fmt --check
+
+      - name: Clippy (deny warnings)
+        run: cargo clippy --all-targets -- -D warnings
+
+      - name: Build
+        run: cargo build --release --verbose
+
+      - name: Test
+        run: cargo test --verbose
+
+  viewer:
+    name: TypeScript viewer
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: examples/Achievements/projects/recallweave/viewer
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build
+        run: npm run build
+
+      - name: Test
+        run: npm test
+
+  demo:
+    name: End-to-end demo
+    runs-on: ubuntu-latest
+    needs: [engine, viewer]
+    defaults:
+      run:
+        working-directory: examples/Achievements/projects/recallweave
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Rust toolchain
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: Install Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Build engine
+        run: cargo build --release
+
+      - name: Build viewer
+        run: cd viewer && npm install && npm run build
+
+      - name: Run demo (asserts the full lifecycle end-to-end)
+        run: sh examples/demo.sh
+
+      - name: Verify integrity of the demo store
+        run: ./target/release/recallweave --dir examples/demo-store verify
+
+      - name: Render tapestry from the exported pack
+        run: node viewer/dist/cli.js examples/memory-pack.json --svg /tmp/tapestry.svg

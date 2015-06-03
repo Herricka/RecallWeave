@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 320" width="720" height="320" role="img" aria-label="recallweave memory loom: a shuttle weaving typed memory threads onto a warp">
+  <title>recallweave: the memory loom</title>
+  <desc>An animated loom. A shuttle glides across a warp of vertical threads, laying down coloured weft threads for episodic, semantic, procedural and preference memories.</desc>
+  <defs>
+    <pattern id="linen" width="8" height="8" patternUnits="userSpaceOnUse">
+      <rect width="8" height="8" fill="#f6f1e7"/>
+      <path d="M0 0 L8 0 M0 4 L8 4" stroke="#e8e0d0" stroke-width="0.6"/>
+      <path d="M0 0 L0 8 M4 0 L4 8" stroke="#efe8da" stroke-width="0.6"/>
+    </pattern>
+    <linearGradient id="frame" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#a97644"/>
+      <stop offset="1" stop-color="#7c522b"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="720" height="320" fill="url(#linen)"/>
+
+  <!-- loom frame -->
+  <rect x="40" y="40" width="640" height="240" rx="10" fill="none" stroke="url(#frame)" stroke-width="10"/>
+  <rect x="40" y="34" width="640" height="14" rx="7" fill="url(#frame)"/>
+  <rect x="40" y="272" width="640" height="14" rx="7" fill="url(#frame)"/>
+
+  <!-- warp: vertical guide threads the weft crosses -->
+  <g stroke="#cbb89a" stroke-width="1.4">
+    <line x1="80" y1="52" x2="80" y2="268"/>
+    <line x1="120" y1="52" x2="120" y2="268"/>
+    <line x1="160" y1="52" x2="160" y2="268"/>
+    <line x1="200" y1="52" x2="200" y2="268"/>
+    <line x1="240" y1="52" x2="240" y2="268"/>
+    <line x1="280" y1="52" x2="280" y2="268"/>
+    <line x1="320" y1="52" x2="320" y2="268"/>
+    <line x1="360" y1="52" x2="360" y2="268"/>
+    <line x1="400" y1="52" x2="400" y2="268"/>
+    <line x1="440" y1="52" x2="440" y2="268"/>
+    <line x1="480" y1="52" x2="480" y2="268"/>
+    <line x1="520" y1="52" x2="520" y2="268"/>
+    <line x1="560" y1="52" x2="560" y2="268"/>
+    <line x1="600" y1="52" x2="600" y2="268"/>
+    <line x1="640" y1="52" x2="640" y2="268"/>
+  </g>
+
+  <!-- woven weft rows, each a memory kind. They "grow" then hold, looping. -->
+  <!-- semantic (moss) -->
+  <line x1="72" y1="90" x2="72" y2="90" stroke="#3d8361" stroke-width="7" stroke-linecap="round">
+    <animate attributeName="x2" values="72;648;648;72" keyTimes="0;0.35;0.9;1" dur="8s" repeatCount="indefinite"/>
+  </line>
+  <!-- preference (saffron) -->
+  <line x1="72" y1="130" x2="72" y2="130" stroke="#d4a017" stroke-width="7" stroke-linecap="round">
+    <animate attributeName="x2" values="72;72;648;648;72" keyTimes="0;0.15;0.5;0.9;1" dur="8s" repeatCount="indefinite"/>
+  </line>
+  <!-- procedural (indigo) -->
+  <line x1="72" y1="170" x2="72" y2="170" stroke="#5f7adb" stroke-width="7" stroke-linecap="round">
+    <animate attributeName="x2" values="72;72;648;648;72" keyTimes="0;0.30;0.65;0.9;1" dur="8s" repeatCount="indefinite"/>
+  </line>
+  <!-- episodic (terracotta) -->
+  <line x1="72" y1="210" x2="72" y2="210" stroke="#e07a5f" stroke-width="7" stroke-linecap="round">
+    <animate attributeName="x2" values="72;72;648;648;72" keyTimes="0;0.45;0.8;0.9;1" dur="8s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- the shuttle: races across as each row is woven -->
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="72,90; 648,90; 72,130; 648,130; 72,170; 648,170; 72,210; 648,210; 72,90"
+      keyTimes="0;0.20;0.25;0.45;0.5;0.70;0.75;0.95;1" dur="8s" repeatCount="indefinite"/>
+    <ellipse cx="0" cy="0" rx="26" ry="10" fill="#8a5a2b" stroke="#5c3a1a" stroke-width="2"/>
+    <circle cx="0" cy="0" r="3.5" fill="#f6f1e7"/>
+    <polygon points="-26,0 -34,-4 -34,4" fill="#5c3a1a"/>
+    <polygon points="26,0 34,-4 34,4" fill="#5c3a1a"/>
+  </g>
+
+  <!-- labels -->
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="13" fill="#4a3f33">
+    <text x="56" y="94" text-anchor="end">semantic</text>
+    <text x="56" y="134" text-anchor="end">preference</text>
+    <text x="56" y="174" text-anchor="end">procedural</text>
+    <text x="56" y="214" text-anchor="end">episodic</text>
+  </g>
+  <text x="360" y="26" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#2b2118" font-weight="bold">recallweave · the memory loom</text>
+  <text x="360" y="308" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#8a7d6d">each pass of the shuttle records one typed memory into the append-only weave</text>
+</svg>

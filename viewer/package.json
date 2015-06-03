@@ -1,0 +1,22 @@
+{
+  "name": "recallweave-tapestry",
+  "version": "0.1.0",
+  "description": "Tapestry viewer for recallweave memory-packs: renders a loom-woven SVG and a text report from an exported pack.",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "tapestry": "dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "demo": "node dist/cli.js ../examples/memory-pack.json --svg ../docs/assets/tapestry-demo.svg",
+    "test": "tsc -p tsconfig.json && node dist/pack.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "typescript": "^5.4.0"
+  }
+}

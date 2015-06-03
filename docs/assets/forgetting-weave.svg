@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 320" width="720" height="320" role="img" aria-label="recallweave forgetting weave: threads fade as memories expire and are compacted away">
+  <title>recallweave: the forgetting weave</title>
+  <desc>An animated panel showing the forgetting lifecycle: live threads on the left stay solid, an expiring thread fades to dashed as its time-to-live elapses, a tombstoned thread is cut, and compaction re-weaves the remaining live threads into a tighter cloth.</desc>
+  <defs>
+    <pattern id="linen2" width="8" height="8" patternUnits="userSpaceOnUse">
+      <rect width="8" height="8" fill="#f4efe4"/>
+      <path d="M0 0 L8 0 M0 4 L8 4" stroke="#e6ddcc" stroke-width="0.6"/>
+      <path d="M0 0 L0 8 M4 0 L4 8" stroke="#ede5d5" stroke-width="0.6"/>
+    </pattern>
+  </defs>
+
+  <rect x="0" y="0" width="720" height="320" fill="url(#linen2)"/>
+  <text x="360" y="30" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#2b2118" font-weight="bold">recallweave · the forgetting weave</text>
+
+  <!-- warp -->
+  <g stroke="#cbb89a" stroke-width="1.2" stroke-opacity="0.7">
+    <line x1="90" y1="70" x2="90" y2="250"/>
+    <line x1="160" y1="70" x2="160" y2="250"/>
+    <line x1="230" y1="70" x2="230" y2="250"/>
+    <line x1="300" y1="70" x2="300" y2="250"/>
+    <line x1="370" y1="70" x2="370" y2="250"/>
+    <line x1="440" y1="70" x2="440" y2="250"/>
+    <line x1="510" y1="70" x2="510" y2="250"/>
+    <line x1="580" y1="70" x2="580" y2="250"/>
+    <line x1="630" y1="70" x2="630" y2="250"/>
+  </g>
+
+  <!-- durable threads: stay solid -->
+  <line x1="80" y1="90" x2="640" y2="90" stroke="#3d8361" stroke-width="6" stroke-linecap="round"/>
+  <line x1="80" y1="130" x2="640" y2="130" stroke="#5f7adb" stroke-width="6" stroke-linecap="round"/>
+
+  <!-- expiring thread: fades and becomes dashed as TTL elapses -->
+  <line x1="80" y1="170" x2="640" y2="170" stroke="#d4a017" stroke-width="6" stroke-linecap="round">
+    <animate attributeName="stroke-opacity" values="1;1;0.25;0.25;1" keyTimes="0;0.3;0.55;0.9;1" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-dasharray" values="0 0;0 0;5 6;5 6;0 0" keyTimes="0;0.3;0.55;0.9;1" dur="9s" repeatCount="indefinite"/>
+  </line>
+  <!-- a small "ttl clock" that drains next to the expiring thread -->
+  <g transform="translate(660,170)">
+    <circle r="12" fill="none" stroke="#b8860b" stroke-width="2"/>
+    <line x1="0" y1="0" x2="0" y2="-9" stroke="#b8860b" stroke-width="2">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="9s" repeatCount="indefinite"/>
+    </line>
+  </g>
+
+  <!-- tombstoned thread: gets cut in the middle (a gap opens) -->
+  <line x1="80" y1="210" x2="360" y2="210" stroke="#e07a5f" stroke-width="6" stroke-linecap="round">
+    <animate attributeName="x2" values="640;640;360;360;640" keyTimes="0;0.35;0.6;0.9;1" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values="1;1;0.4;0.4;1" keyTimes="0;0.35;0.6;0.9;1" dur="9s" repeatCount="indefinite"/>
+  </line>
+  <line x1="420" y1="210" x2="640" y2="210" stroke="#e07a5f" stroke-width="6" stroke-linecap="round" stroke-opacity="0">
+    <animate attributeName="stroke-opacity" values="0;0;0.4;0.4;0" keyTimes="0;0.35;0.6;0.9;1" dur="9s" repeatCount="indefinite"/>
+  </line>
+  <!-- tombstone marker -->
+  <g transform="translate(390,210)" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.55;0.62;0.9;1" dur="9s" repeatCount="indefinite"/>
+    <path d="M-8 8 L-8 -4 A8 8 0 0 1 8 -4 L8 8 Z" fill="#9a8f80"/>
+    <text x="0" y="4" text-anchor="middle" font-family="Georgia, serif" font-size="9" fill="#f4efe4">✝</text>
+  </g>
+
+  <!-- compaction sweep: a broom of light passes and the cloth tightens -->
+  <rect x="80" y="66" width="14" height="188" fill="#ffffff" fill-opacity="0.35">
+    <animate attributeName="x" values="80;80;80;640;80" keyTimes="0;0.85;0.9;0.98;1" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="0;0;0.5;0.5;0" keyTimes="0;0.88;0.9;0.98;1" dur="9s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- legend -->
+  <g font-family="Georgia, serif" font-size="12" fill="#4a3f33">
+    <text x="56" y="94" text-anchor="end">semantic</text>
+    <text x="56" y="134" text-anchor="end">procedural</text>
+    <text x="56" y="174" text-anchor="end">episodic (ttl)</text>
+    <text x="56" y="214" text-anchor="end">episodic (cut)</text>
+  </g>
+  <text x="360" y="285" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#8a7d6d">time-to-live fades a thread · a tombstone cuts one · compaction re-weaves what remains</text>
+</svg>
