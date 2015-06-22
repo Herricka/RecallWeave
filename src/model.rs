@@ -390,3 +390,5 @@ mod tests {
         assert_eq!(MemoryKind::parse("semantic").unwrap(), MemoryKind::Semantic);
     }
 }
+
+// feat: expose docs as a library API
