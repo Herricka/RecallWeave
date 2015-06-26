@@ -708,3 +708,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
         version = recallweave::VERSION
     );
 }
+
+// docs: document benches
