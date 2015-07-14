@@ -26,3 +26,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // feat: add cli handling
 
 // fix: reject invalid crates/export instead of failing later
+
+// docs: document crates/memory
