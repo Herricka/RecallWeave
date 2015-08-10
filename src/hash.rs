@@ -182,3 +182,5 @@ mod tests {
         assert_ne!(x, y);
     }
 }
+
+// feat: cache parsed crates/export
