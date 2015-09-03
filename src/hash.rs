@@ -186,3 +186,5 @@ mod tests {
 // feat: cache parsed crates/export
 
 // refactor: rename benches for clarity
+
+// perf: reduce allocations in cli
