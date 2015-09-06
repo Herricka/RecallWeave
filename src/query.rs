@@ -231,3 +231,5 @@ mod tests {
 // chore: bump deps for cli
 
 // fix: handle empty crates/memory
+
+// docs: add an example for src
