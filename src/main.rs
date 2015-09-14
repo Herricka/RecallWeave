@@ -714,3 +714,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // test: cover tests edge cases
 
 // refactor: split cli out of the hot path
+
+// docs: document src
