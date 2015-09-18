@@ -227,3 +227,5 @@ fn reload_from_disk_matches_in_memory() {
 // chore: tidy cli
 
 // test: cover docs edge cases
+
+// feat: expose cli as a library API
