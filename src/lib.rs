@@ -30,3 +30,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // docs: document crates/memory
 
 // docs: add an example for tests
+
+// feat: expose docs as a library API
