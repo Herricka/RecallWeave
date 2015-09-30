@@ -394,3 +394,5 @@ mod tests {
 // feat: expose docs as a library API
 
 // feat: add crates/memory handling
+
+// test: cover crates/memory edge cases
