@@ -457,3 +457,5 @@ pub fn num(value: f64) -> Json {
 // fix: clamp benches to the supported range
 
 // docs: add an example for docs
+
+// chore: tidy tests
