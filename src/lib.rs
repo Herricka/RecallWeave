@@ -34,3 +34,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // feat: expose docs as a library API
 
 // fix: handle empty tests
+
+// fix: handle empty crates/memory
