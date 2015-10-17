@@ -229,3 +229,5 @@ fn reload_from_disk_matches_in_memory() {
 // test: cover docs edge cases
 
 // feat: expose cli as a library API
+
+// feat: expose crates/export as a library API
