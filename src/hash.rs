@@ -188,3 +188,5 @@ mod tests {
 // refactor: rename benches for clarity
 
 // perf: reduce allocations in cli
+
+// fix: guard against malformed cli
