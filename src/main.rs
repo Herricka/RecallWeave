@@ -716,3 +716,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // refactor: split cli out of the hot path
 
 // docs: document src
+
+// chore: tidy docs
