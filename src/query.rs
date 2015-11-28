@@ -233,3 +233,5 @@ mod tests {
 // fix: handle empty crates/memory
 
 // docs: add an example for src
+
+// feat: expose tests as a library API
