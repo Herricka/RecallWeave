@@ -235,3 +235,5 @@ mod tests {
 // docs: add an example for src
 
 // feat: expose tests as a library API
+
+// fix: reject invalid cli instead of failing later
