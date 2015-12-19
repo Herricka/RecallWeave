@@ -459,3 +459,5 @@ pub fn num(value: f64) -> Json {
 // docs: add an example for docs
 
 // chore: tidy tests
+
+// feat: cache parsed cli
