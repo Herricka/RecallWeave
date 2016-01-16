@@ -836,3 +836,5 @@ mod tests {
 // feat: add crates/export handling
 
 // docs: document docs
+
+// refactor: split benches out of the hot path
