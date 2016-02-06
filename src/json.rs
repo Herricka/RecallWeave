@@ -463,3 +463,5 @@ pub fn num(value: f64) -> Json {
 // feat: cache parsed cli
 
 // docs: add an example for crates/export
+
+// perf: reduce allocations in cli
