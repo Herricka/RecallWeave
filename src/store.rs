@@ -840,3 +840,5 @@ mod tests {
 // refactor: split benches out of the hot path
 
 // perf: reduce allocations in crates/memory
+
+// docs: document crates/memory
