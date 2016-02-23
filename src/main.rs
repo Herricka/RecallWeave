@@ -724,3 +724,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // fix: handle empty cli
 
 // feat: add docs handling
+
+// chore: tidy docs
