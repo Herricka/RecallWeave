@@ -243,3 +243,5 @@ fn reload_from_disk_matches_in_memory() {
 // feat: add crates/export handling
 
 // fix: guard against malformed src
+
+// feat: add docs handling
