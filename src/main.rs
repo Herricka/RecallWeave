@@ -726,3 +726,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // feat: add docs handling
 
 // chore: tidy docs
+
+// docs: add an example for tests
