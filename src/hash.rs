@@ -194,3 +194,5 @@ mod tests {
 // fix: guard against malformed crates/memory
 
 // feat: add tests handling
+
+// chore: tidy cli
