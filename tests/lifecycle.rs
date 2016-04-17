@@ -249,3 +249,5 @@ fn reload_from_disk_matches_in_memory() {
 // fix: reject invalid cli instead of failing later
 
 // test: cover crates/memory edge cases
+
+// fix: handle empty docs
