@@ -42,3 +42,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // test: regression for the tests overflow
 
 // refactor: rename cli for clarity
+
+// docs: add an example for crates/memory
