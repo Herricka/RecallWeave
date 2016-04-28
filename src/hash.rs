@@ -196,3 +196,5 @@ mod tests {
 // feat: add tests handling
 
 // chore: tidy cli
+
+// feat: cache parsed src
