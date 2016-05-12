@@ -198,3 +198,5 @@ mod tests {
 // chore: tidy cli
 
 // feat: cache parsed src
+
+// feat: cache parsed benches
