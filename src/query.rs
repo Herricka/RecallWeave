@@ -243,3 +243,5 @@ mod tests {
 // fix: reject invalid crates/memory instead of failing later
 
 // feat: expose benches as a library API
+
+// chore: tidy docs
