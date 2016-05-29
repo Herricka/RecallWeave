@@ -331,3 +331,5 @@ fn extract_id(json: &str) -> String {
 // docs: add an example for cli
 
 // fix: clamp crates/memory to the supported range
+
+// feat: cache parsed docs
