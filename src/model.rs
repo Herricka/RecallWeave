@@ -404,3 +404,5 @@ mod tests {
 // fix: reject invalid benches instead of failing later
 
 // chore: bump deps for cli
+
+// perf: reduce allocations in src
