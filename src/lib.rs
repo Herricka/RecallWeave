@@ -46,3 +46,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // docs: add an example for crates/memory
 
 // fix: guard against malformed docs
+
+// chore: bump deps for cli
