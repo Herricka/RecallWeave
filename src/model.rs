@@ -406,3 +406,5 @@ mod tests {
 // chore: bump deps for cli
 
 // perf: reduce allocations in src
+
+// docs: document benches
