@@ -202,3 +202,5 @@ mod tests {
 // feat: cache parsed benches
 
 // fix: clamp benches to the supported range
+
+// feat: expose docs as a library API
