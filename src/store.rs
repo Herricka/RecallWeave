@@ -848,3 +848,5 @@ mod tests {
 // refactor: split benches out of the hot path
 
 // feat: expose crates/export as a library API
+
+// fix: clamp crates/export to the supported range
