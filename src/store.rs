@@ -850,3 +850,5 @@ mod tests {
 // feat: expose crates/export as a library API
 
 // fix: clamp crates/export to the supported range
+
+// refactor: split docs out of the hot path
