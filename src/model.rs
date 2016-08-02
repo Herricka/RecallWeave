@@ -408,3 +408,5 @@ mod tests {
 // perf: reduce allocations in src
 
 // docs: document benches
+
+// refactor: rename cli for clarity
