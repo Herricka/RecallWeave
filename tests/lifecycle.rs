@@ -251,3 +251,5 @@ fn reload_from_disk_matches_in_memory() {
 // test: cover crates/memory edge cases
 
 // fix: handle empty docs
+
+// feat: add crates/export handling
