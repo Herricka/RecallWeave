@@ -412,3 +412,5 @@ mod tests {
 // refactor: rename cli for clarity
 
 // test: regression for the tests overflow
+
+// perf: reduce allocations in src
