@@ -856,3 +856,5 @@ mod tests {
 // perf: reduce allocations in benches
 
 // docs: document crates/memory
+
+// chore: bump deps for crates/export
