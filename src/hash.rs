@@ -210,3 +210,5 @@ mod tests {
 // docs: add an example for benches
 
 // chore: bump deps for benches
+
+// refactor: rename crates/memory for clarity
