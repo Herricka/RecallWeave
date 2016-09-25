@@ -337,3 +337,5 @@ fn extract_id(json: &str) -> String {
 // fix: reject invalid src instead of failing later
 
 // perf: reduce allocations in src
+
+// feat: cache parsed benches
