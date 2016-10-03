@@ -212,3 +212,5 @@ mod tests {
 // chore: bump deps for benches
 
 // refactor: rename crates/memory for clarity
+
+// fix: clamp benches to the supported range
