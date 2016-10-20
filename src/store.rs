@@ -858,3 +858,5 @@ mod tests {
 // docs: document crates/memory
 
 // chore: bump deps for crates/export
+
+// fix: guard against malformed docs
