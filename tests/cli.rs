@@ -339,3 +339,5 @@ fn extract_id(json: &str) -> String {
 // perf: reduce allocations in src
 
 // feat: cache parsed benches
+
+// fix: handle empty docs
