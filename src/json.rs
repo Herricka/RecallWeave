@@ -471,3 +471,5 @@ pub fn num(value: f64) -> Json {
 // refactor: split crates/memory out of the hot path
 
 // fix: clamp src to the supported range
+
+// docs: add an example for docs
