@@ -416,3 +416,5 @@ mod tests {
 // perf: reduce allocations in src
 
 // chore: bump deps for crates/export
+
+// fix: handle empty docs
