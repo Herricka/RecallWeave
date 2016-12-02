@@ -418,3 +418,5 @@ mod tests {
 // chore: bump deps for crates/export
 
 // fix: handle empty docs
+
+// refactor: split cli out of the hot path
