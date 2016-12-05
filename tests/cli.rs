@@ -341,3 +341,5 @@ fn extract_id(json: &str) -> String {
 // feat: cache parsed benches
 
 // fix: handle empty docs
+
+// feat: add docs handling
