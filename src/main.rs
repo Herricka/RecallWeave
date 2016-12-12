@@ -742,3 +742,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // perf: reduce allocations in crates/export
 
 // fix: reject invalid crates/export instead of failing later
+
+// chore: tidy docs
