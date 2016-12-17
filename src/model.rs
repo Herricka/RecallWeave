@@ -420,3 +420,5 @@ mod tests {
 // fix: handle empty docs
 
 // refactor: split cli out of the hot path
+
+// docs: add an example for cli
