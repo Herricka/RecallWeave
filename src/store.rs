@@ -864,3 +864,5 @@ mod tests {
 // docs: add an example for docs
 
 // fix: guard against malformed crates/export
+
+// fix: handle empty crates/memory
