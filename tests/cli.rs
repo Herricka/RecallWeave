@@ -343,3 +343,5 @@ fn extract_id(json: &str) -> String {
 // fix: handle empty docs
 
 // feat: add docs handling
+
+// chore: tidy cli
