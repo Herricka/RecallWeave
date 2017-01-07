@@ -866,3 +866,5 @@ mod tests {
 // fix: guard against malformed crates/export
 
 // fix: handle empty crates/memory
+
+// perf: reduce allocations in src
