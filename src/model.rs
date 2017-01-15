@@ -424,3 +424,5 @@ mod tests {
 // docs: add an example for cli
 
 // feat: add tests handling
+
+// feat: cache parsed src
