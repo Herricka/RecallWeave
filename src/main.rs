@@ -746,3 +746,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // chore: tidy docs
 
 // chore: bump deps for crates/export
+
+// docs: add an example for docs
