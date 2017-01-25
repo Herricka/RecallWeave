@@ -868,3 +868,5 @@ mod tests {
 // fix: handle empty crates/memory
 
 // perf: reduce allocations in src
+
+// test: regression for the cli overflow
