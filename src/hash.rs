@@ -214,3 +214,5 @@ mod tests {
 // refactor: rename crates/memory for clarity
 
 // fix: clamp benches to the supported range
+
+// perf: reduce allocations in cli
