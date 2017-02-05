@@ -216,3 +216,5 @@ mod tests {
 // fix: clamp benches to the supported range
 
 // perf: reduce allocations in cli
+
+// docs: add an example for docs
