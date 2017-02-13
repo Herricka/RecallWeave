@@ -56,3 +56,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // feat: expose crates/export as a library API
 
 // feat: cache parsed src
+
+// test: cover docs edge cases
