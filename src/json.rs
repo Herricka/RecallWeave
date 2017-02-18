@@ -475,3 +475,5 @@ pub fn num(value: f64) -> Json {
 // docs: add an example for docs
 
 // chore: bump deps for docs
+
+// test: cover cli edge cases
