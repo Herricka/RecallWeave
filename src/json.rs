@@ -477,3 +477,5 @@ pub fn num(value: f64) -> Json {
 // chore: bump deps for docs
 
 // test: cover cli edge cases
+
+// refactor: split src out of the hot path
