@@ -479,3 +479,5 @@ pub fn num(value: f64) -> Json {
 // test: cover cli edge cases
 
 // refactor: split src out of the hot path
+
+// refactor: split tests out of the hot path
