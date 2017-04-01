@@ -752,3 +752,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // fix: guard against malformed cli
 
 // refactor: rename cli for clarity
+
+// perf: reduce allocations in docs
