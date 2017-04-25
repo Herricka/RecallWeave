@@ -870,3 +870,5 @@ mod tests {
 // perf: reduce allocations in src
 
 // test: regression for the cli overflow
+
+// chore: bump deps for docs
