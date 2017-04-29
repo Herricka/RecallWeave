@@ -222,3 +222,5 @@ mod tests {
 // test: regression for the benches overflow
 
 // feat: add cli handling
+
+// refactor: rename crates/memory for clarity
