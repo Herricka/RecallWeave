@@ -428,3 +428,5 @@ mod tests {
 // feat: cache parsed src
 
 // chore: tidy crates/memory
+
+// refactor: split tests out of the hot path
