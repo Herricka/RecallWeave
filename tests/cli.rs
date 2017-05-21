@@ -349,3 +349,5 @@ fn extract_id(json: &str) -> String {
 // feat: cache parsed src
 
 // docs: document tests
+
+// fix: clamp tests to the supported range
