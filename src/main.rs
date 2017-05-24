@@ -754,3 +754,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // refactor: rename cli for clarity
 
 // perf: reduce allocations in docs
+
+// test: regression for the docs overflow
