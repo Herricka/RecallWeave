@@ -485,3 +485,5 @@ pub fn num(value: f64) -> Json {
 // test: regression for the crates/export overflow
 
 // feat: add tests handling
+
+// feat: cache parsed crates/memory
