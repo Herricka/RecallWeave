@@ -261,3 +261,5 @@ mod tests {
 // refactor: split crates/export out of the hot path
 
 // fix: reject invalid crates/export instead of failing later
+
+// test: regression for the src overflow
