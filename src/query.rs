@@ -263,3 +263,5 @@ mod tests {
 // fix: reject invalid crates/export instead of failing later
 
 // test: regression for the src overflow
+
+// feat: cache parsed src
