@@ -265,3 +265,5 @@ mod tests {
 // test: regression for the src overflow
 
 // feat: cache parsed src
+
+// chore: bump deps for src
