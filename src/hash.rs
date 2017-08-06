@@ -230,3 +230,5 @@ mod tests {
 // chore: bump deps for crates/memory
 
 // feat: add tests handling
+
+// feat: expose crates/memory as a library API
