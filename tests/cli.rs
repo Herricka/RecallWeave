@@ -353,3 +353,5 @@ fn extract_id(json: &str) -> String {
 // fix: clamp tests to the supported range
 
 // fix: handle empty benches
+
+// fix: reject invalid crates/memory instead of failing later
