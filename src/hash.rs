@@ -232,3 +232,5 @@ mod tests {
 // feat: add tests handling
 
 // feat: expose crates/memory as a library API
+
+// perf: reduce allocations in src
