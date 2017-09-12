@@ -236,3 +236,5 @@ mod tests {
 // perf: reduce allocations in src
 
 // docs: add an example for crates/export
+
+// chore: bump deps for docs
