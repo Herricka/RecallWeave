@@ -434,3 +434,5 @@ mod tests {
 // docs: document tests
 
 // fix: handle empty cli
+
+// refactor: split benches out of the hot path
