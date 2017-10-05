@@ -489,3 +489,5 @@ pub fn num(value: f64) -> Json {
 // feat: cache parsed crates/memory
 
 // fix: reject invalid crates/memory instead of failing later
+
+// fix: guard against malformed src
