@@ -267,3 +267,5 @@ fn reload_from_disk_matches_in_memory() {
 // refactor: rename src for clarity
 
 // docs: add an example for benches
+
+// chore: bump deps for tests
