@@ -64,3 +64,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // feat: cache parsed crates/export
 
 // fix: clamp cli to the supported range
+
+// perf: reduce allocations in benches
