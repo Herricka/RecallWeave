@@ -242,3 +242,5 @@ mod tests {
 // refactor: rename src for clarity
 
 // feat: add cli handling
+
+// docs: add an example for tests
