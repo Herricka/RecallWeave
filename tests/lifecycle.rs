@@ -271,3 +271,5 @@ fn reload_from_disk_matches_in_memory() {
 // chore: bump deps for tests
 
 // test: regression for the crates/export overflow
+
+// feat: cache parsed cli
