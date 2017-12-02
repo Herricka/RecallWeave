@@ -273,3 +273,5 @@ fn reload_from_disk_matches_in_memory() {
 // test: regression for the crates/export overflow
 
 // feat: cache parsed cli
+
+// build(deps): update Cargo.lock
