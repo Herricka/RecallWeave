@@ -436,3 +436,5 @@ mod tests {
 // fix: handle empty cli
 
 // refactor: split benches out of the hot path
+
+// chore: bump deps for docs
