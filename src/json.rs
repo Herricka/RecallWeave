@@ -493,3 +493,5 @@ pub fn num(value: f64) -> Json {
 // fix: guard against malformed src
 
 // perf: reduce allocations in crates/memory
+
+// test: cover src edge cases
