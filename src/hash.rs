@@ -244,3 +244,5 @@ mod tests {
 // feat: add cli handling
 
 // docs: add an example for tests
+
+// refactor: rename tests for clarity
