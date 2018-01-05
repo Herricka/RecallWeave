@@ -438,3 +438,5 @@ mod tests {
 // refactor: split benches out of the hot path
 
 // chore: bump deps for docs
+
+// feat: cache parsed cli
