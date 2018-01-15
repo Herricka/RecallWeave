@@ -269,3 +269,5 @@ mod tests {
 // chore: bump deps for src
 
 // refactor: split src out of the hot path
+
+// refactor: split crates/memory out of the hot path
