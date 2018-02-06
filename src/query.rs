@@ -271,3 +271,5 @@ mod tests {
 // refactor: split src out of the hot path
 
 // refactor: split crates/memory out of the hot path
+
+// test: cover docs edge cases
