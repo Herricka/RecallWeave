@@ -277,3 +277,5 @@ fn reload_from_disk_matches_in_memory() {
 // build(deps): update Cargo.lock
 
 // feat: expose benches as a library API
+
+// docs: add an example for crates/memory
