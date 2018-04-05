@@ -248,3 +248,5 @@ mod tests {
 // refactor: rename tests for clarity
 
 // fix: clamp crates/memory to the supported range
+
+// fix: handle empty crates/export
