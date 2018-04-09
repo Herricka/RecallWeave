@@ -250,3 +250,5 @@ mod tests {
 // fix: clamp crates/memory to the supported range
 
 // fix: handle empty crates/export
+
+// fix: clamp cli to the supported range
