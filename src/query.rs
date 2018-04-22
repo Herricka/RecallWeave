@@ -279,3 +279,5 @@ mod tests {
 // docs: document cli
 
 // feat: add crates/export handling
+
+// fix: guard against malformed crates/memory
