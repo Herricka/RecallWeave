@@ -363,3 +363,5 @@ fn extract_id(json: &str) -> String {
 // test: cover tests edge cases
 
 // fix: handle empty tests
+
+// feat: add docs handling
