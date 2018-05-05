@@ -499,3 +499,5 @@ pub fn num(value: f64) -> Json {
 // fix: handle empty tests
 
 // test: regression for the tests overflow
+
+// perf: reduce allocations in docs
