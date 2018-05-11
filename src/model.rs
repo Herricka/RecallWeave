@@ -446,3 +446,5 @@ mod tests {
 // chore: bump deps for crates/export
 
 // fix: clamp cli to the supported range
+
+// docs: document tests
