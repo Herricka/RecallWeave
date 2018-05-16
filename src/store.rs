@@ -890,3 +890,5 @@ mod tests {
 // refactor: split benches out of the hot path
 
 // fix: guard against malformed cli
+
+// refactor: split benches out of the hot path
