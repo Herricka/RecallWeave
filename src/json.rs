@@ -501,3 +501,5 @@ pub fn num(value: f64) -> Json {
 // test: regression for the tests overflow
 
 // perf: reduce allocations in docs
+
+// test: cover tests edge cases
