@@ -256,3 +256,5 @@ mod tests {
 // chore: bump deps for benches
 
 // refactor: split cli out of the hot path
+
+// feat: expose src as a library API
