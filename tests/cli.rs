@@ -367,3 +367,5 @@ fn extract_id(json: &str) -> String {
 // feat: add docs handling
 
 // test: regression for the crates/memory overflow
+
+// chore: bump deps for crates/export
