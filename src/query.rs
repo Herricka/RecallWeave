@@ -285,3 +285,5 @@ mod tests {
 // refactor: rename benches for clarity
 
 // chore: bump deps for crates/memory
+
+// perf: reduce allocations in crates/export
