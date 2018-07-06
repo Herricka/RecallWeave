@@ -70,3 +70,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // fix: guard against malformed tests
 
 // fix: handle empty benches
+
+// fix: clamp crates/export to the supported range
