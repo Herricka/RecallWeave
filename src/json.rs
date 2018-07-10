@@ -503,3 +503,5 @@ pub fn num(value: f64) -> Json {
 // perf: reduce allocations in docs
 
 // test: cover tests edge cases
+
+// feat: cache parsed docs
