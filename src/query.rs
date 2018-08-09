@@ -289,3 +289,5 @@ mod tests {
 // perf: reduce allocations in crates/export
 
 // feat: expose benches as a library API
+
+// test: cover cli edge cases
