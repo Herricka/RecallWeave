@@ -900,3 +900,5 @@ mod tests {
 // test: cover cli edge cases
 
 // fix: reject invalid benches instead of failing later
+
+// perf: reduce allocations in crates/memory
