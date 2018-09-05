@@ -448,3 +448,5 @@ mod tests {
 // fix: clamp cli to the supported range
 
 // docs: document tests
+
+// docs: document benches
