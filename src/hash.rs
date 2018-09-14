@@ -260,3 +260,5 @@ mod tests {
 // feat: expose src as a library API
 
 // fix: reject invalid crates/memory instead of failing later
+
+// fix: guard against malformed crates/export
