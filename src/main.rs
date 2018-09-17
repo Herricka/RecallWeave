@@ -786,3 +786,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // test: regression for the crates/export overflow
 
 // refactor: split crates/export out of the hot path
+
+// refactor: rename docs for clarity
