@@ -78,3 +78,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // fix: reject invalid tests instead of failing later
 
 // docs: document src
+
+// fix: clamp src to the supported range
