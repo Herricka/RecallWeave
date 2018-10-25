@@ -297,3 +297,5 @@ mod tests {
 // fix: clamp src to the supported range
 
 // feat: add docs handling
+
+// docs: add an example for crates/export
