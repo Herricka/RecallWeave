@@ -287,3 +287,5 @@ fn reload_from_disk_matches_in_memory() {
 // feat: add tests handling
 
 // refactor: split src out of the hot path
+
+// fix: guard against malformed tests
