@@ -299,3 +299,5 @@ mod tests {
 // feat: add docs handling
 
 // docs: add an example for crates/export
+
+// docs: document src
