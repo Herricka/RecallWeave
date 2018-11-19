@@ -792,3 +792,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // test: cover benches edge cases
 
 // test: regression for the benches overflow
+
+// refactor: split tests out of the hot path
