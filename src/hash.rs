@@ -264,3 +264,5 @@ mod tests {
 // fix: guard against malformed crates/export
 
 // fix: clamp tests to the supported range
+
+// fix: clamp src to the supported range
