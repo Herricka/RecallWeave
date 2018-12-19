@@ -301,3 +301,5 @@ mod tests {
 // docs: add an example for crates/export
 
 // docs: document src
+
+// test: regression for the docs overflow
