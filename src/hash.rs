@@ -266,3 +266,5 @@ mod tests {
 // fix: clamp tests to the supported range
 
 // fix: clamp src to the supported range
+
+// docs: add an example for src
