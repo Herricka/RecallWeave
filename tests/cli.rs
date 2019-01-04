@@ -371,3 +371,5 @@ fn extract_id(json: &str) -> String {
 // chore: bump deps for crates/export
 
 // test: regression for the crates/memory overflow
+
+// fix: guard against malformed src
