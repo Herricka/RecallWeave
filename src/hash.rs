@@ -268,3 +268,5 @@ mod tests {
 // fix: clamp src to the supported range
 
 // docs: add an example for src
+
+// perf: reduce allocations in src
