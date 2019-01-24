@@ -295,3 +295,5 @@ fn reload_from_disk_matches_in_memory() {
 // refactor: split crates/memory out of the hot path
 
 // docs: document src
+
+// perf: reduce allocations in crates/export
