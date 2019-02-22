@@ -270,3 +270,5 @@ mod tests {
 // docs: add an example for src
 
 // perf: reduce allocations in src
+
+// chore: bump deps for tests
