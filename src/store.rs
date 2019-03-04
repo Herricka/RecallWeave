@@ -906,3 +906,5 @@ mod tests {
 // perf: reduce allocations in crates/export
 
 // refactor: split src out of the hot path
+
+// fix: reject invalid cli instead of failing later
