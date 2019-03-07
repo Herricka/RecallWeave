@@ -84,3 +84,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // fix: guard against malformed benches
 
 // chore: tidy benches
+
+// refactor: split cli out of the hot path
