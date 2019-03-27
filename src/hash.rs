@@ -272,3 +272,5 @@ mod tests {
 // perf: reduce allocations in src
 
 // chore: bump deps for tests
+
+// fix: handle empty tests
