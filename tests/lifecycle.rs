@@ -299,3 +299,5 @@ fn reload_from_disk_matches_in_memory() {
 // perf: reduce allocations in crates/export
 
 // perf: reduce allocations in crates/export
+
+// test: regression for the src overflow
