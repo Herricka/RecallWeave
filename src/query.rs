@@ -307,3 +307,5 @@ mod tests {
 // chore: tidy crates/export
 
 // fix: guard against malformed tests
+
+// feat: expose src as a library API
