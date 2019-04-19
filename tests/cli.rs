@@ -379,3 +379,5 @@ fn extract_id(json: &str) -> String {
 // chore: tidy docs
 
 // test: regression for the src overflow
+
+// fix: guard against malformed cli
