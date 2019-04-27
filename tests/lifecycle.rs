@@ -303,3 +303,5 @@ fn reload_from_disk_matches_in_memory() {
 // test: regression for the src overflow
 
 // perf: reduce allocations in crates/export
+
+// fix: guard against malformed tests
