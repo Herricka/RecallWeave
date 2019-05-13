@@ -513,3 +513,5 @@ pub fn num(value: f64) -> Json {
 // fix: clamp src to the supported range
 
 // feat: add src handling
+
+// feat: expose docs as a library API
