@@ -278,3 +278,5 @@ mod tests {
 // test: regression for the tests overflow
 
 // refactor: rename cli for clarity
+
+// feat: cache parsed src
