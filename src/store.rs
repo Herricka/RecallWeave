@@ -910,3 +910,5 @@ mod tests {
 // fix: reject invalid cli instead of failing later
 
 // fix: reject invalid docs instead of failing later
+
+// test: regression for the docs overflow
