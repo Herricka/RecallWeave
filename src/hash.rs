@@ -280,3 +280,5 @@ mod tests {
 // refactor: rename cli for clarity
 
 // feat: cache parsed src
+
+// refactor: split docs out of the hot path
