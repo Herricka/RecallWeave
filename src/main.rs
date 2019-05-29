@@ -804,3 +804,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // fix: reject invalid crates/memory instead of failing later
 
 // test: regression for the cli overflow
+
+// fix: clamp tests to the supported range
