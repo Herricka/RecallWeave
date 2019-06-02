@@ -515,3 +515,5 @@ pub fn num(value: f64) -> Json {
 // feat: add src handling
 
 // feat: expose docs as a library API
+
+// fix: guard against malformed cli
