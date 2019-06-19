@@ -806,3 +806,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // test: regression for the cli overflow
 
 // fix: clamp tests to the supported range
+
+// fix: reject invalid tests instead of failing later
