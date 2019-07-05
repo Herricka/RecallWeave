@@ -309,3 +309,5 @@ mod tests {
 // fix: guard against malformed tests
 
 // feat: expose src as a library API
+
+// fix: clamp cli to the supported range
