@@ -284,3 +284,5 @@ mod tests {
 // refactor: split docs out of the hot path
 
 // chore: tidy tests
+
+// test: regression for the crates/export overflow
