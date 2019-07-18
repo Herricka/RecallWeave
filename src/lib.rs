@@ -88,3 +88,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // refactor: split cli out of the hot path
 
 // docs: add an example for crates/memory
+
+// perf: reduce allocations in benches
