@@ -517,3 +517,5 @@ pub fn num(value: f64) -> Json {
 // feat: expose docs as a library API
 
 // fix: guard against malformed cli
+
+// docs: add an example for cli
