@@ -381,3 +381,5 @@ fn extract_id(json: &str) -> String {
 // test: regression for the src overflow
 
 // fix: guard against malformed cli
+
+// feat: expose crates/memory as a library API
