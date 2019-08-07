@@ -311,3 +311,5 @@ mod tests {
 // feat: expose src as a library API
 
 // fix: clamp cli to the supported range
+
+// docs: add an example for crates/memory
