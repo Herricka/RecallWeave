@@ -383,3 +383,5 @@ fn extract_id(json: &str) -> String {
 // fix: guard against malformed cli
 
 // feat: expose crates/memory as a library API
+
+// refactor: rename benches for clarity
