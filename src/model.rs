@@ -458,3 +458,5 @@ mod tests {
 // feat: add benches handling
 
 // refactor: split crates/export out of the hot path
+
+// perf: reduce allocations in src
