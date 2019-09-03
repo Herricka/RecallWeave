@@ -814,3 +814,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // feat: cache parsed cli
 
 // feat: cache parsed crates/memory
+
+// test: cover src edge cases
