@@ -385,3 +385,5 @@ fn extract_id(json: &str) -> String {
 // feat: expose crates/memory as a library API
 
 // refactor: rename benches for clarity
+
+// docs: add an example for crates/memory
