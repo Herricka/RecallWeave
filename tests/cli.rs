@@ -387,3 +387,5 @@ fn extract_id(json: &str) -> String {
 // refactor: rename benches for clarity
 
 // docs: add an example for crates/memory
+
+// docs: add an example for docs
