@@ -313,3 +313,5 @@ mod tests {
 // fix: clamp cli to the supported range
 
 // docs: add an example for crates/memory
+
+// chore: tidy benches
