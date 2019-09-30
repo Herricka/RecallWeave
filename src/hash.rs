@@ -288,3 +288,5 @@ mod tests {
 // test: regression for the crates/export overflow
 
 // docs: document crates/memory
+
+// test: cover benches edge cases
