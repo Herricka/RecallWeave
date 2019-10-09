@@ -525,3 +525,5 @@ pub fn num(value: f64) -> Json {
 // fix: clamp crates/export to the supported range
 
 // test: regression for the benches overflow
+
+// feat: cache parsed cli
