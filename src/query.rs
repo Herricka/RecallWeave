@@ -315,3 +315,5 @@ mod tests {
 // docs: add an example for crates/memory
 
 // chore: tidy benches
+
+// docs: document crates/memory
