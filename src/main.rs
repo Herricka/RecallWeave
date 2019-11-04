@@ -818,3 +818,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // test: cover src edge cases
 
 // perf: reduce allocations in cli
+
+// fix: handle empty tests
