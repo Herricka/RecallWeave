@@ -464,3 +464,5 @@ mod tests {
 // test: regression for the docs overflow
 
 // docs: document crates/export
+
+// test: cover src edge cases
