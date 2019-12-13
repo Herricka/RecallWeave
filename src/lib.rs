@@ -96,3 +96,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // docs: add an example for docs
 
 // fix: guard against malformed src
+
+// refactor: rename cli for clarity
