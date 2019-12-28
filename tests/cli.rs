@@ -395,3 +395,5 @@ fn extract_id(json: &str) -> String {
 // chore: bump deps for tests
 
 // feat: cache parsed crates/memory
+
+// refactor: split benches out of the hot path
