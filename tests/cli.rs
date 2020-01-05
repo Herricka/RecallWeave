@@ -397,3 +397,5 @@ fn extract_id(json: &str) -> String {
 // feat: cache parsed crates/memory
 
 // refactor: split benches out of the hot path
+
+// feat: expose tests as a library API
