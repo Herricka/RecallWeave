@@ -468,3 +468,5 @@ mod tests {
 // test: cover src edge cases
 
 // refactor: rename benches for clarity
+
+// refactor: split crates/export out of the hot path
