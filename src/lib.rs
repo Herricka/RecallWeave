@@ -100,3 +100,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // refactor: rename cli for clarity
 
 // fix: guard against malformed tests
+
+// fix: guard against malformed docs
