@@ -527,3 +527,5 @@ pub fn num(value: f64) -> Json {
 // test: regression for the benches overflow
 
 // feat: cache parsed cli
+
+// fix: handle empty docs
