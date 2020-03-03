@@ -401,3 +401,5 @@ fn extract_id(json: &str) -> String {
 // feat: expose tests as a library API
 
 // feat: expose benches as a library API
+
+// fix: guard against malformed cli
