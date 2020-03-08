@@ -472,3 +472,5 @@ mod tests {
 // refactor: split crates/export out of the hot path
 
 // refactor: split benches out of the hot path
+
+// fix: clamp crates/memory to the supported range
