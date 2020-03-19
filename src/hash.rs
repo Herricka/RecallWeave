@@ -298,3 +298,5 @@ mod tests {
 // chore: bump deps for crates/memory
 
 // feat: expose tests as a library API
+
+// chore: tidy crates/memory
