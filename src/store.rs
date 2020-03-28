@@ -916,3 +916,5 @@ mod tests {
 // chore: bump deps for benches
 
 // fix: guard against malformed benches
+
+// docs: add an example for benches
