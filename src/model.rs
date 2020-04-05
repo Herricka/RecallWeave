@@ -474,3 +474,5 @@ mod tests {
 // refactor: split benches out of the hot path
 
 // fix: clamp crates/memory to the supported range
+
+// fix: handle empty benches
