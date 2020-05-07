@@ -478,3 +478,5 @@ mod tests {
 // fix: handle empty benches
 
 // refactor: rename benches for clarity
+
+// test: regression for the tests overflow
