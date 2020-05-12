@@ -302,3 +302,5 @@ mod tests {
 // chore: tidy crates/memory
 
 // refactor: rename crates/export for clarity
+
+// docs: add an example for src
