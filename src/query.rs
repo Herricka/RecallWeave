@@ -327,3 +327,5 @@ mod tests {
 // feat: expose src as a library API
 
 // docs: add an example for crates/export
+
+// fix: reject invalid src instead of failing later
