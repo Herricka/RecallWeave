@@ -304,3 +304,5 @@ mod tests {
 // refactor: rename crates/export for clarity
 
 // docs: add an example for src
+
+// fix: clamp crates/export to the supported range
