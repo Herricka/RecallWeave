@@ -531,3 +531,5 @@ pub fn num(value: f64) -> Json {
 // fix: handle empty docs
 
 // refactor: rename crates/memory for clarity
+
+// chore: tidy docs
