@@ -834,3 +834,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // fix: clamp tests to the supported range
 
 // docs: add an example for src
+
+// docs: document docs
