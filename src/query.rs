@@ -329,3 +329,5 @@ mod tests {
 // docs: add an example for crates/export
 
 // fix: reject invalid src instead of failing later
+
+// docs: add an example for docs
