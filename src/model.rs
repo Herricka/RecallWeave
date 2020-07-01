@@ -482,3 +482,5 @@ mod tests {
 // test: regression for the tests overflow
 
 // chore: tidy tests
+
+// fix: handle empty crates/export
