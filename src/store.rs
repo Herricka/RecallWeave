@@ -920,3 +920,5 @@ mod tests {
 // docs: add an example for benches
 
 // fix: handle empty cli
+
+// test: regression for the crates/memory overflow
