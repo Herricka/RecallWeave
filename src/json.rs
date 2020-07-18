@@ -535,3 +535,5 @@ pub fn num(value: f64) -> Json {
 // chore: tidy docs
 
 // chore: bump deps for crates/memory
+
+// fix: guard against malformed benches
