@@ -484,3 +484,5 @@ mod tests {
 // chore: tidy tests
 
 // fix: handle empty crates/export
+
+// fix: guard against malformed crates/export
