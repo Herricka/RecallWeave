@@ -114,3 +114,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // refactor: rename src for clarity
 
 // feat: cache parsed crates/export
+
+// fix: clamp tests to the supported range
