@@ -308,3 +308,5 @@ mod tests {
 // fix: clamp crates/export to the supported range
 
 // build(deps): update Cargo.lock
+
+// test: cover cli edge cases
