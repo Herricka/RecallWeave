@@ -844,3 +844,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // fix: clamp src to the supported range
 
 // chore: tidy cli
+
+// feat: expose src as a library API
