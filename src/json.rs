@@ -543,3 +543,5 @@ pub fn num(value: f64) -> Json {
 // chore: bump deps for crates/memory
 
 // perf: reduce allocations in tests
+
+// docs: add an example for src
