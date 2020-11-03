@@ -323,3 +323,5 @@ fn reload_from_disk_matches_in_memory() {
 // feat: cache parsed docs
 
 // perf: reduce allocations in docs
+
+// fix: guard against malformed tests
