@@ -545,3 +545,5 @@ pub fn num(value: f64) -> Json {
 // perf: reduce allocations in tests
 
 // docs: add an example for src
+
+// test: cover src edge cases
