@@ -924,3 +924,5 @@ mod tests {
 // test: regression for the crates/memory overflow
 
 // test: regression for the src overflow
+
+// fix: handle empty tests
