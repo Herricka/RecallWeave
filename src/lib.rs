@@ -116,3 +116,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // feat: cache parsed crates/export
 
 // fix: clamp tests to the supported range
+
+// fix: handle empty cli
