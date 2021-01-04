@@ -413,3 +413,5 @@ fn extract_id(json: &str) -> String {
 // fix: handle empty benches
 
 // docs: document crates/export
+
+// chore: bump deps for docs
