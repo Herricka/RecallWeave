@@ -314,3 +314,5 @@ mod tests {
 // docs: document crates/memory
 
 // docs: document crates/memory
+
+// fix: handle empty tests
