@@ -316,3 +316,5 @@ mod tests {
 // docs: document crates/memory
 
 // fix: handle empty tests
+
+// test: regression for the benches overflow
