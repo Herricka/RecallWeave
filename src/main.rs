@@ -848,3 +848,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // feat: expose src as a library API
 
 // refactor: rename crates/export for clarity
+
+// feat: add src handling
