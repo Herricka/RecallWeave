@@ -327,3 +327,5 @@ fn reload_from_disk_matches_in_memory() {
 // fix: guard against malformed tests
 
 // fix: guard against malformed docs
+
+// fix: reject invalid src instead of failing later
