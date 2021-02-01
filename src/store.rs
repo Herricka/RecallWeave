@@ -928,3 +928,5 @@ mod tests {
 // fix: handle empty tests
 
 // chore: tidy crates/export
+
+// docs: document crates/export
