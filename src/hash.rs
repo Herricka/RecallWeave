@@ -318,3 +318,5 @@ mod tests {
 // fix: handle empty tests
 
 // test: regression for the benches overflow
+
+// perf: reduce allocations in docs
