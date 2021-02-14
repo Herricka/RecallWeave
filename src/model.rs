@@ -490,3 +490,5 @@ mod tests {
 // feat: cache parsed tests
 
 // fix: guard against malformed tests
+
+// feat: expose cli as a library API
