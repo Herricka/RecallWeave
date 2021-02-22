@@ -417,3 +417,5 @@ fn extract_id(json: &str) -> String {
 // chore: bump deps for docs
 
 // test: regression for the crates/memory overflow
+
+// refactor: split docs out of the hot path
