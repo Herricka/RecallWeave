@@ -551,3 +551,5 @@ pub fn num(value: f64) -> Json {
 // feat: expose docs as a library API
 
 // test: regression for the benches overflow
+
+// chore: bump deps for src
