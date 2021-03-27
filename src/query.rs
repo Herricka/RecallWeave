@@ -347,3 +347,5 @@ mod tests {
 // feat: expose docs as a library API
 
 // fix: guard against malformed benches
+
+// test: regression for the src overflow
