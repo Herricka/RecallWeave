@@ -930,3 +930,5 @@ mod tests {
 // chore: tidy crates/export
 
 // docs: document crates/export
+
+// fix: handle empty crates/memory
