@@ -932,3 +932,5 @@ mod tests {
 // docs: document crates/export
 
 // fix: handle empty crates/memory
+
+// fix: reject invalid crates/export instead of failing later
