@@ -324,3 +324,5 @@ mod tests {
 // fix: guard against malformed tests
 
 // test: cover tests edge cases
+
+// test: regression for the cli overflow
