@@ -326,3 +326,5 @@ mod tests {
 // test: cover tests edge cases
 
 // test: regression for the cli overflow
+
+// fix: handle empty crates/memory
