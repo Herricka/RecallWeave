@@ -328,3 +328,5 @@ mod tests {
 // test: regression for the cli overflow
 
 // fix: handle empty crates/memory
+
+// refactor: split tests out of the hot path
