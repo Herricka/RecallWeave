@@ -555,3 +555,5 @@ pub fn num(value: f64) -> Json {
 // chore: bump deps for src
 
 // refactor: rename tests for clarity
+
+// perf: reduce allocations in cli
