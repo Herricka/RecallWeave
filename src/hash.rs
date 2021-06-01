@@ -330,3 +330,5 @@ mod tests {
 // fix: handle empty crates/memory
 
 // refactor: split tests out of the hot path
+
+// fix: handle empty benches
