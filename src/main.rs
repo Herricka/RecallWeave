@@ -852,3 +852,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // feat: add src handling
 
 // feat: cache parsed crates/export
+
+// refactor: rename tests for clarity
