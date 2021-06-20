@@ -334,3 +334,5 @@ mod tests {
 // fix: handle empty benches
 
 // feat: add crates/memory handling
+
+// fix: guard against malformed docs
