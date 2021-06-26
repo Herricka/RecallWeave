@@ -337,3 +337,5 @@ fn reload_from_disk_matches_in_memory() {
 // test: regression for the benches overflow
 
 // feat: expose benches as a library API
+
+// feat: cache parsed docs
