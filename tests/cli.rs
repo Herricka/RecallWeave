@@ -423,3 +423,5 @@ fn extract_id(json: &str) -> String {
 // feat: add crates/export handling
 
 // refactor: rename docs for clarity
+
+// fix: reject invalid crates/memory instead of failing later
