@@ -494,3 +494,5 @@ mod tests {
 // feat: expose cli as a library API
 
 // refactor: rename crates/memory for clarity
+
+// fix: reject invalid benches instead of failing later
