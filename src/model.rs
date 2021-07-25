@@ -496,3 +496,5 @@ mod tests {
 // refactor: rename crates/memory for clarity
 
 // fix: reject invalid benches instead of failing later
+
+// feat: cache parsed benches
