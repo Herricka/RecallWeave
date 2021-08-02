@@ -557,3 +557,5 @@ pub fn num(value: f64) -> Json {
 // refactor: rename tests for clarity
 
 // perf: reduce allocations in cli
+
+// refactor: rename cli for clarity
