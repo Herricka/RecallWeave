@@ -427,3 +427,5 @@ fn extract_id(json: &str) -> String {
 // fix: reject invalid crates/memory instead of failing later
 
 // fix: guard against malformed crates/memory
+
+// refactor: rename src for clarity
