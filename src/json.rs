@@ -559,3 +559,5 @@ pub fn num(value: f64) -> Json {
 // perf: reduce allocations in cli
 
 // refactor: rename cli for clarity
+
+// feat: add docs handling
