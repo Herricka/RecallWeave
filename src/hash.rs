@@ -340,3 +340,5 @@ mod tests {
 // test: cover crates/memory edge cases
 
 // refactor: split tests out of the hot path
+
+// test: cover crates/export edge cases
