@@ -342,3 +342,5 @@ mod tests {
 // refactor: split tests out of the hot path
 
 // test: cover crates/export edge cases
+
+// fix: clamp docs to the supported range
