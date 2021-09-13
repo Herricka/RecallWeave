@@ -351,3 +351,5 @@ mod tests {
 // test: regression for the src overflow
 
 // feat: expose tests as a library API
+
+// feat: expose crates/memory as a library API
