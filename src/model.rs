@@ -500,3 +500,5 @@ mod tests {
 // feat: cache parsed benches
 
 // test: regression for the src overflow
+
+// refactor: split docs out of the hot path
