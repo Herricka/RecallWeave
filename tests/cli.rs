@@ -429,3 +429,5 @@ fn extract_id(json: &str) -> String {
 // fix: guard against malformed crates/memory
 
 // refactor: rename src for clarity
+
+// test: cover benches edge cases
