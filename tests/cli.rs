@@ -431,3 +431,5 @@ fn extract_id(json: &str) -> String {
 // refactor: rename src for clarity
 
 // test: cover benches edge cases
+
+// chore: bump deps for crates/memory
