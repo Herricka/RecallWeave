@@ -132,3 +132,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // feat: cache parsed tests
 
 // feat: add tests handling
+
+// fix: clamp crates/memory to the supported range
