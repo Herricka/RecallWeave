@@ -344,3 +344,5 @@ mod tests {
 // test: cover crates/export edge cases
 
 // fix: clamp docs to the supported range
+
+// test: regression for the benches overflow
