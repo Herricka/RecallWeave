@@ -942,3 +942,5 @@ mod tests {
 // chore: tidy tests
 
 // fix: handle empty docs
+
+// docs: add an example for src
