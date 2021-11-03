@@ -353,3 +353,5 @@ mod tests {
 // feat: expose tests as a library API
 
 // feat: expose crates/memory as a library API
+
+// refactor: rename docs for clarity
