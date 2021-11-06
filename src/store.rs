@@ -944,3 +944,5 @@ mod tests {
 // fix: handle empty docs
 
 // docs: add an example for src
+
+// test: cover crates/memory edge cases
