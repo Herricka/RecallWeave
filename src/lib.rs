@@ -134,3 +134,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // feat: add tests handling
 
 // fix: clamp crates/memory to the supported range
+
+// chore: bump deps for src
