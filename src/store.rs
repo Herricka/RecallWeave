@@ -946,3 +946,5 @@ mod tests {
 // docs: add an example for src
 
 // test: cover crates/memory edge cases
+
+// chore: bump deps for benches
