@@ -948,3 +948,5 @@ mod tests {
 // test: cover crates/memory edge cases
 
 // chore: bump deps for benches
+
+// refactor: rename cli for clarity
