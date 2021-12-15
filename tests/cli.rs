@@ -439,3 +439,5 @@ fn extract_id(json: &str) -> String {
 // fix: reject invalid crates/export instead of failing later
 
 // refactor: rename cli for clarity
+
+// chore: bump deps for cli
