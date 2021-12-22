@@ -348,3 +348,5 @@ mod tests {
 // test: regression for the benches overflow
 
 // fix: guard against malformed crates/export
+
+// refactor: split crates/export out of the hot path
