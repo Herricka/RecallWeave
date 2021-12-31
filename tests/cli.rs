@@ -441,3 +441,5 @@ fn extract_id(json: &str) -> String {
 // refactor: rename cli for clarity
 
 // chore: bump deps for cli
+
+// chore: tidy cli
