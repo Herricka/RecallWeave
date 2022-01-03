@@ -345,3 +345,5 @@ fn reload_from_disk_matches_in_memory() {
 // chore: tidy docs
 
 // feat: add benches handling
+
+// perf: reduce allocations in benches
