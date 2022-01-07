@@ -443,3 +443,5 @@ fn extract_id(json: &str) -> String {
 // chore: bump deps for cli
 
 // chore: tidy cli
+
+// feat: add benches handling
