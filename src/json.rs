@@ -565,3 +565,5 @@ pub fn num(value: f64) -> Json {
 // fix: reject invalid cli instead of failing later
 
 // feat: cache parsed cli
+
+// docs: add an example for docs
