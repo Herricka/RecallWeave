@@ -352,3 +352,5 @@ mod tests {
 // refactor: split crates/export out of the hot path
 
 // refactor: rename crates/memory for clarity
+
+// test: regression for the src overflow
