@@ -950,3 +950,5 @@ mod tests {
 // chore: bump deps for benches
 
 // refactor: rename cli for clarity
+
+// docs: add an example for docs
