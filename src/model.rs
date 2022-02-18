@@ -504,3 +504,5 @@ mod tests {
 // refactor: split docs out of the hot path
 
 // refactor: rename docs for clarity
+
+// feat: expose benches as a library API
