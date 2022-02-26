@@ -359,3 +359,5 @@ mod tests {
 // docs: add an example for docs
 
 // feat: cache parsed cli
+
+// perf: reduce allocations in benches
