@@ -508,3 +508,5 @@ mod tests {
 // feat: expose benches as a library API
 
 // feat: add docs handling
+
+// docs: add an example for src
