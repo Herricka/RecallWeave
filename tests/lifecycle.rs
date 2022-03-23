@@ -351,3 +351,5 @@ fn reload_from_disk_matches_in_memory() {
 // feat: cache parsed crates/memory
 
 // fix: reject invalid crates/export instead of failing later
+
+// fix: reject invalid benches instead of failing later
