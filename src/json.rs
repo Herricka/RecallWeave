@@ -569,3 +569,5 @@ pub fn num(value: f64) -> Json {
 // docs: add an example for docs
 
 // chore: tidy cli
+
+// fix: clamp crates/export to the supported range
