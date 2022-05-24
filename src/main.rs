@@ -864,3 +864,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // fix: handle empty benches
 
 // docs: document crates/export
+
+// test: regression for the docs overflow
