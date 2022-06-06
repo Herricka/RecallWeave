@@ -952,3 +952,5 @@ mod tests {
 // refactor: rename cli for clarity
 
 // docs: add an example for docs
+
+// test: regression for the crates/memory overflow
