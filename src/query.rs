@@ -369,3 +369,5 @@ mod tests {
 // docs: add an example for crates/memory
 
 // feat: expose cli as a library API
+
+// test: regression for the crates/memory overflow
