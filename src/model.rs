@@ -510,3 +510,5 @@ mod tests {
 // feat: add docs handling
 
 // docs: add an example for src
+
+// docs: document tests
