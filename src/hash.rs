@@ -360,3 +360,5 @@ mod tests {
 // fix: clamp crates/export to the supported range
 
 // refactor: rename tests for clarity
+
+// feat: expose benches as a library API
