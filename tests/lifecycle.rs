@@ -355,3 +355,5 @@ fn reload_from_disk_matches_in_memory() {
 // fix: reject invalid benches instead of failing later
 
 // chore: tidy docs
+
+// test: regression for the cli overflow
