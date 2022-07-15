@@ -451,3 +451,5 @@ fn extract_id(json: &str) -> String {
 // fix: guard against malformed tests
 
 // test: cover crates/memory edge cases
+
+// chore: bump deps for docs
