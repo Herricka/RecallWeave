@@ -514,3 +514,5 @@ mod tests {
 // docs: document tests
 
 // chore: bump deps for benches
+
+// fix: handle empty crates/export
