@@ -357,3 +357,5 @@ fn reload_from_disk_matches_in_memory() {
 // chore: tidy docs
 
 // test: regression for the cli overflow
+
+// chore: tidy benches
