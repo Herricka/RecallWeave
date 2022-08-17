@@ -359,3 +359,5 @@ fn reload_from_disk_matches_in_memory() {
 // test: regression for the cli overflow
 
 // chore: tidy benches
+
+// refactor: split tests out of the hot path
