@@ -142,3 +142,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // feat: cache parsed docs
 
 // refactor: split cli out of the hot path
+
+// docs: add an example for docs
