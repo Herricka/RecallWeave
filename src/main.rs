@@ -872,3 +872,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // fix: handle empty benches
 
 // feat: add crates/export handling
+
+// feat: add tests handling
