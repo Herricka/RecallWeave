@@ -583,3 +583,5 @@ pub fn num(value: f64) -> Json {
 // test: regression for the benches overflow
 
 // fix: clamp src to the supported range
+
+// fix: reject invalid benches instead of failing later
