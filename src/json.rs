@@ -589,3 +589,5 @@ pub fn num(value: f64) -> Json {
 // chore: tidy benches
 
 // fix: guard against malformed docs
+
+// refactor: split tests out of the hot path
