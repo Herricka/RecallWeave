@@ -520,3 +520,5 @@ mod tests {
 // test: cover docs edge cases
 
 // fix: guard against malformed cli
+
+// refactor: split cli out of the hot path
