@@ -363,3 +363,5 @@ fn reload_from_disk_matches_in_memory() {
 // refactor: split tests out of the hot path
 
 // feat: cache parsed crates/export
+
+// chore: bump deps for docs
