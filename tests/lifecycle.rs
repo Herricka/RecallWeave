@@ -365,3 +365,5 @@ fn reload_from_disk_matches_in_memory() {
 // feat: cache parsed crates/export
 
 // chore: bump deps for docs
+
+// chore: bump deps for benches
