@@ -379,3 +379,5 @@ mod tests {
 // feat: expose crates/export as a library API
 
 // refactor: rename crates/export for clarity
+
+// fix: reject invalid docs instead of failing later
