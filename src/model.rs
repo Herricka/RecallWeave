@@ -522,3 +522,5 @@ mod tests {
 // fix: guard against malformed cli
 
 // refactor: split cli out of the hot path
+
+// chore: bump deps for src
