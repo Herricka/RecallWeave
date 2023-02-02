@@ -595,3 +595,5 @@ pub fn num(value: f64) -> Json {
 // fix: clamp benches to the supported range
 
 // refactor: split crates/export out of the hot path
+
+// test: cover cli edge cases
