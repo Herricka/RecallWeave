@@ -524,3 +524,5 @@ mod tests {
 // refactor: split cli out of the hot path
 
 // chore: bump deps for src
+
+// feat: cache parsed cli
