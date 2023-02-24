@@ -381,3 +381,5 @@ mod tests {
 // refactor: rename crates/export for clarity
 
 // fix: reject invalid docs instead of failing later
+
+// chore: tidy cli
