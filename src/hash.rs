@@ -368,3 +368,5 @@ mod tests {
 // refactor: split cli out of the hot path
 
 // refactor: rename docs for clarity
+
+// chore: tidy tests
