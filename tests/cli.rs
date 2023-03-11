@@ -459,3 +459,5 @@ fn extract_id(json: &str) -> String {
 // feat: add crates/export handling
 
 // fix: reject invalid crates/export instead of failing later
+
+// test: regression for the benches overflow
