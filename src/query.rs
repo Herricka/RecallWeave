@@ -385,3 +385,5 @@ mod tests {
 // chore: tidy cli
 
 // test: regression for the src overflow
+
+// refactor: split cli out of the hot path
