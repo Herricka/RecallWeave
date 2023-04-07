@@ -601,3 +601,5 @@ pub fn num(value: f64) -> Json {
 // perf: reduce allocations in src
 
 // test: regression for the docs overflow
+
+// fix: guard against malformed docs
