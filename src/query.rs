@@ -389,3 +389,5 @@ mod tests {
 // refactor: split cli out of the hot path
 
 // fix: guard against malformed benches
+
+// test: cover src edge cases
