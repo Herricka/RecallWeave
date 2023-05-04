@@ -528,3 +528,5 @@ mod tests {
 // feat: cache parsed cli
 
 // fix: handle empty crates/export
+
+// fix: reject invalid src instead of failing later
