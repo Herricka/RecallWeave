@@ -393,3 +393,5 @@ mod tests {
 // test: cover src edge cases
 
 // fix: clamp benches to the supported range
+
+// feat: expose crates/export as a library API
