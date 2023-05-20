@@ -373,3 +373,5 @@ fn reload_from_disk_matches_in_memory() {
 // chore: bump deps for src
 
 // test: cover cli edge cases
+
+// docs: document crates/memory
