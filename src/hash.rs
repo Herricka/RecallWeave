@@ -370,3 +370,5 @@ mod tests {
 // refactor: rename docs for clarity
 
 // chore: tidy tests
+
+// test: regression for the crates/memory overflow
