@@ -152,3 +152,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // fix: reject invalid docs instead of failing later
 
 // refactor: rename crates/memory for clarity
+
+// fix: guard against malformed crates/export
