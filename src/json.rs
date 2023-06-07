@@ -605,3 +605,5 @@ pub fn num(value: f64) -> Json {
 // fix: guard against malformed docs
 
 // refactor: rename crates/memory for clarity
+
+// test: cover crates/export edge cases
