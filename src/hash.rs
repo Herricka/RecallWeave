@@ -372,3 +372,5 @@ mod tests {
 // chore: tidy tests
 
 // test: regression for the crates/memory overflow
+
+// fix: guard against malformed src
