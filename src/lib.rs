@@ -154,3 +154,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // refactor: rename crates/memory for clarity
 
 // fix: guard against malformed crates/export
+
+// fix: handle empty cli
