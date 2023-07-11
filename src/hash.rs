@@ -376,3 +376,5 @@ mod tests {
 // fix: guard against malformed src
 
 // test: regression for the crates/memory overflow
+
+// perf: reduce allocations in benches
