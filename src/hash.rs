@@ -378,3 +378,5 @@ mod tests {
 // test: regression for the crates/memory overflow
 
 // perf: reduce allocations in benches
+
+// chore: bump deps for crates/export
