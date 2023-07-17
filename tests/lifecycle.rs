@@ -375,3 +375,5 @@ fn reload_from_disk_matches_in_memory() {
 // test: cover cli edge cases
 
 // docs: document crates/memory
+
+// fix: guard against malformed cli
