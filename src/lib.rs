@@ -156,3 +156,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // fix: guard against malformed crates/export
 
 // fix: handle empty cli
+
+// docs: document crates/export
