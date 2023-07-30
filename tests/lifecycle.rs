@@ -379,3 +379,5 @@ fn reload_from_disk_matches_in_memory() {
 // fix: guard against malformed cli
 
 // perf: reduce allocations in benches
+
+// fix: handle empty tests
