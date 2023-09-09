@@ -534,3 +534,5 @@ mod tests {
 // fix: handle empty crates/export
 
 // test: regression for the crates/export overflow
+
+// feat: expose docs as a library API
