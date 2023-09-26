@@ -898,3 +898,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // feat: add crates/export handling
 
 // docs: document tests
+
+// refactor: rename crates/memory for clarity
