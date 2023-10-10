@@ -972,3 +972,5 @@ mod tests {
 // fix: clamp crates/memory to the supported range
 
 // docs: document docs
+
+// fix: handle empty docs
