@@ -902,3 +902,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // refactor: rename crates/memory for clarity
 
 // fix: handle empty crates/export
+
+// test: regression for the crates/memory overflow
