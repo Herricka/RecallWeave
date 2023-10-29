@@ -385,3 +385,5 @@ fn reload_from_disk_matches_in_memory() {
 // fix: reject invalid crates/export instead of failing later
 
 // feat: cache parsed docs
+
+// docs: add an example for tests
