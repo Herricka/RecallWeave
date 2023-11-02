@@ -609,3 +609,5 @@ pub fn num(value: f64) -> Json {
 // test: cover crates/export edge cases
 
 // test: regression for the tests overflow
+
+// feat: cache parsed tests
