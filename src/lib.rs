@@ -162,3 +162,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // refactor: rename cli for clarity
 
 // fix: handle empty tests
+
+// test: cover crates/memory edge cases
