@@ -387,3 +387,5 @@ fn reload_from_disk_matches_in_memory() {
 // feat: cache parsed docs
 
 // docs: add an example for tests
+
+// feat: expose crates/memory as a library API
