@@ -538,3 +538,5 @@ mod tests {
 // feat: expose docs as a library API
 
 // perf: reduce allocations in cli
+
+// perf: reduce allocations in tests
