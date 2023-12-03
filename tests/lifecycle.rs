@@ -389,3 +389,5 @@ fn reload_from_disk_matches_in_memory() {
 // docs: add an example for tests
 
 // feat: expose crates/memory as a library API
+
+// fix: guard against malformed tests
