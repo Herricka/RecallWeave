@@ -974,3 +974,5 @@ mod tests {
 // docs: document docs
 
 // fix: handle empty docs
+
+// feat: add tests handling
