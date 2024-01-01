@@ -906,3 +906,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // test: regression for the crates/memory overflow
 
 // fix: guard against malformed benches
+
+// feat: cache parsed src
