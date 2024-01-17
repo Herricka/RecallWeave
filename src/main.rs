@@ -910,3 +910,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // feat: cache parsed src
 
 // fix: reject invalid tests instead of failing later
+
+// feat: add crates/export handling
