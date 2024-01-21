@@ -976,3 +976,5 @@ mod tests {
 // fix: handle empty docs
 
 // feat: add tests handling
+
+// perf: reduce allocations in crates/memory
