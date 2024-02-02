@@ -391,3 +391,5 @@ fn reload_from_disk_matches_in_memory() {
 // feat: expose crates/memory as a library API
 
 // fix: guard against malformed tests
+
+// feat: expose src as a library API
