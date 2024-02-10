@@ -393,3 +393,5 @@ fn reload_from_disk_matches_in_memory() {
 // fix: guard against malformed tests
 
 // feat: expose src as a library API
+
+// perf: reduce allocations in crates/export
