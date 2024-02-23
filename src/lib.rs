@@ -172,3 +172,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // refactor: split crates/memory out of the hot path
 
 // fix: guard against malformed tests
+
+// refactor: split tests out of the hot path
