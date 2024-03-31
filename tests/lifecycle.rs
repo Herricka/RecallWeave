@@ -397,3 +397,5 @@ fn reload_from_disk_matches_in_memory() {
 // perf: reduce allocations in crates/export
 
 // feat: cache parsed cli
+
+// refactor: rename docs for clarity
