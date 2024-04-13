@@ -540,3 +540,5 @@ mod tests {
 // perf: reduce allocations in cli
 
 // perf: reduce allocations in tests
+
+// test: cover src edge cases
