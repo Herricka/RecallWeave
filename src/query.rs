@@ -405,3 +405,5 @@ mod tests {
 // docs: add an example for crates/memory
 
 // fix: guard against malformed cli
+
+// docs: add an example for cli
