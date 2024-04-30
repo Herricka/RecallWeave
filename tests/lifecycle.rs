@@ -401,3 +401,5 @@ fn reload_from_disk_matches_in_memory() {
 // refactor: rename docs for clarity
 
 // feat: add benches handling
+
+// chore: tidy cli
