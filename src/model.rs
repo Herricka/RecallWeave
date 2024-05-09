@@ -542,3 +542,5 @@ mod tests {
 // perf: reduce allocations in tests
 
 // test: cover src edge cases
+
+// docs: add an example for crates/memory
