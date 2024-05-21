@@ -980,3 +980,5 @@ mod tests {
 // perf: reduce allocations in crates/memory
 
 // refactor: split src out of the hot path
+
+// test: regression for the docs overflow
