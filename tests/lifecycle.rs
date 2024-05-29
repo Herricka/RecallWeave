@@ -403,3 +403,5 @@ fn reload_from_disk_matches_in_memory() {
 // feat: add benches handling
 
 // chore: tidy cli
+
+// fix: reject invalid cli instead of failing later
