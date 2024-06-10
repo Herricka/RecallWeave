@@ -489,3 +489,5 @@ fn extract_id(json: &str) -> String {
 // refactor: split crates/export out of the hot path
 
 // refactor: split tests out of the hot path
+
+// fix: handle empty tests
