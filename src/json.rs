@@ -627,3 +627,5 @@ pub fn num(value: f64) -> Json {
 // feat: cache parsed src
 
 // fix: guard against malformed tests
+
+// fix: guard against malformed benches
