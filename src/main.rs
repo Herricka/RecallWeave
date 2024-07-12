@@ -918,3 +918,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // chore: bump deps for docs
 
 // feat: add crates/memory handling
+
+// fix: clamp tests to the supported range
