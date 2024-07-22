@@ -548,3 +548,5 @@ mod tests {
 // build(deps): update Cargo.lock
 
 // test: regression for the tests overflow
+
+// feat: cache parsed src
