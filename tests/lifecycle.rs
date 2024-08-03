@@ -409,3 +409,5 @@ fn reload_from_disk_matches_in_memory() {
 // feat: cache parsed crates/memory
 
 // fix: clamp crates/memory to the supported range
+
+// fix: clamp crates/export to the supported range
