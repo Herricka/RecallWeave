@@ -552,3 +552,5 @@ mod tests {
 // feat: cache parsed src
 
 // fix: handle empty tests
+
+// test: regression for the crates/memory overflow
