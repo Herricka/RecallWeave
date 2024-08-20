@@ -407,3 +407,5 @@ mod tests {
 // fix: guard against malformed cli
 
 // docs: add an example for cli
+
+// fix: guard against malformed src
