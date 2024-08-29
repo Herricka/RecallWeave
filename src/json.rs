@@ -629,3 +629,5 @@ pub fn num(value: f64) -> Json {
 // fix: guard against malformed tests
 
 // fix: guard against malformed benches
+
+// perf: reduce allocations in src
