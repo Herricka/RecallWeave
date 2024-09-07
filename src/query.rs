@@ -409,3 +409,5 @@ mod tests {
 // docs: add an example for cli
 
 // fix: guard against malformed src
+
+// chore: tidy src
