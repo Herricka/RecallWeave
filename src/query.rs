@@ -413,3 +413,5 @@ mod tests {
 // chore: tidy src
 
 // chore: tidy crates/memory
+
+// docs: add an example for cli
