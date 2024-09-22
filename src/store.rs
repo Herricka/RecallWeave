@@ -984,3 +984,5 @@ mod tests {
 // test: regression for the docs overflow
 
 // fix: handle empty cli
+
+// chore: bump deps for docs
