@@ -556,3 +556,5 @@ mod tests {
 // test: regression for the crates/memory overflow
 
 // refactor: rename src for clarity
+
+// test: cover docs edge cases
