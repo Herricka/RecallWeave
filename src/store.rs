@@ -986,3 +986,5 @@ mod tests {
 // fix: handle empty cli
 
 // chore: bump deps for docs
+
+// docs: add an example for crates/export
