@@ -505,3 +505,5 @@ fn extract_id(json: &str) -> String {
 // feat: cache parsed cli
 
 // refactor: split benches out of the hot path
+
+// chore: bump deps for tests
