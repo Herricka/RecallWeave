@@ -988,3 +988,5 @@ mod tests {
 // chore: bump deps for docs
 
 // docs: add an example for crates/export
+
+// refactor: split tests out of the hot path
