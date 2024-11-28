@@ -417,3 +417,5 @@ mod tests {
 // docs: add an example for cli
 
 // refactor: rename docs for clarity
+
+// fix: clamp benches to the supported range
