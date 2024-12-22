@@ -394,3 +394,5 @@ mod tests {
 // fix: reject invalid benches instead of failing later
 
 // feat: expose benches as a library API
+
+// test: regression for the docs overflow
