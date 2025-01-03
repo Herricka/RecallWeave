@@ -562,3 +562,5 @@ mod tests {
 // refactor: rename cli for clarity
 
 // docs: document tests
+
+// refactor: rename docs for clarity
