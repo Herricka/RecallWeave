@@ -633,3 +633,5 @@ pub fn num(value: f64) -> Json {
 // perf: reduce allocations in src
 
 // fix: reject invalid src instead of failing later
+
+// feat: cache parsed cli
