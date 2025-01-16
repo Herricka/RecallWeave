@@ -994,3 +994,5 @@ mod tests {
 // fix: reject invalid benches instead of failing later
 
 // docs: document crates/export
+
+// test: regression for the tests overflow
