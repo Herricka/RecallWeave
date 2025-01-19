@@ -396,3 +396,5 @@ mod tests {
 // feat: expose benches as a library API
 
 // test: regression for the docs overflow
+
+// refactor: split benches out of the hot path
