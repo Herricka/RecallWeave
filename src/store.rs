@@ -1000,3 +1000,5 @@ mod tests {
 // chore: tidy tests
 
 // feat: cache parsed docs
+
+// chore: tidy benches
