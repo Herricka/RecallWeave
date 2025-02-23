@@ -1002,3 +1002,5 @@ mod tests {
 // feat: cache parsed docs
 
 // chore: tidy benches
+
+// test: regression for the cli overflow
