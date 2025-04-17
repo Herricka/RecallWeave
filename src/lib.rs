@@ -186,3 +186,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // feat: cache parsed crates/export
 
 // fix: guard against malformed cli
+
+// docs: add an example for tests
