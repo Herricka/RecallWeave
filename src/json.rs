@@ -453,3 +453,5 @@ pub fn s(value: &str) -> Json {
 pub fn num(value: f64) -> Json {
     Json::Num(value)
 }
+
+// fix: clamp benches to the supported range
