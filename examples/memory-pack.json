@@ -1,0 +1,156 @@
+{
+  "conflicts": [
+    {
+      "a": "mem_05722332c99b",
+      "b": "mem_881fb4d43384",
+      "explanation": "preferences appear to conflict on 'dark' vs 'light'",
+      "kind": "preference-polarity"
+    }
+  ],
+  "counts_by_kind": {
+    "episodic": 1,
+    "preference": 3,
+    "procedural": 1,
+    "semantic": 1
+  },
+  "format": "recallweave-pack",
+  "format_version": 1,
+  "generated_at": 1710000500,
+  "integrity_head": "2f4907070c7399eeb3e5637e85db596002a6a63ce2d2cf172a3319a579526a22",
+  "live_count": 6,
+  "memories": [
+    {
+      "confidence": 0.7,
+      "content": "prefers dark theme",
+      "created_at": 1710000200,
+      "fingerprint": "07ec91bc12fa710d",
+      "id": "mem_05722332c99b",
+      "kind": "preference",
+      "links": [],
+      "provenance": {
+        "detail": "",
+        "source": "user"
+      },
+      "superseded_by": null,
+      "supersedes": null,
+      "tags": [
+        "ui"
+      ],
+      "tombstone_reason": null,
+      "tombstoned": false,
+      "ttl_secs": null
+    },
+    {
+      "confidence": 0.8,
+      "content": "prefers concise answers",
+      "created_at": 1710000200,
+      "fingerprint": "657b755bbdaf42a7",
+      "id": "mem_131aa7311b05",
+      "kind": "preference",
+      "links": [],
+      "provenance": {
+        "detail": "",
+        "source": "user"
+      },
+      "superseded_by": null,
+      "supersedes": null,
+      "tags": [
+        "style"
+      ],
+      "tombstone_reason": null,
+      "tombstoned": false,
+      "ttl_secs": null
+    },
+    {
+      "confidence": 0.6,
+      "content": "deploy failed at 14:03 due to bad env var",
+      "created_at": 1710000400,
+      "fingerprint": "89e0f9f7f8bccc32",
+      "id": "mem_159b38023143",
+      "kind": "episodic",
+      "links": [],
+      "provenance": {
+        "detail": "",
+        "source": "user"
+      },
+      "superseded_by": null,
+      "supersedes": null,
+      "tags": [
+        "infra"
+      ],
+      "tombstone_reason": null,
+      "tombstoned": false,
+      "ttl_secs": 86400
+    },
+    {
+      "confidence": 0.9,
+      "content": "rotate the API token by running ops runbook step 3",
+      "created_at": 1710000300,
+      "fingerprint": "66c7e181ca16b729",
+      "id": "mem_7c23e2651f32",
+      "kind": "procedural",
+      "links": [],
+      "provenance": {
+        "detail": "",
+        "source": "user"
+      },
+      "superseded_by": null,
+      "supersedes": null,
+      "tags": [
+        "ops"
+      ],
+      "tombstone_reason": null,
+      "tombstoned": false,
+      "ttl_secs": null
+    },
+    {
+      "confidence": 0.6,
+      "content": "prefers light theme",
+      "created_at": 1710000200,
+      "fingerprint": "a48b485ee8b489cd",
+      "id": "mem_881fb4d43384",
+      "kind": "preference",
+      "links": [],
+      "provenance": {
+        "detail": "",
+        "source": "user"
+      },
+      "superseded_by": null,
+      "supersedes": null,
+      "tags": [
+        "ui"
+      ],
+      "tombstone_reason": null,
+      "tombstoned": false,
+      "ttl_secs": null
+    },
+    {
+      "confidence": 0.99,
+      "content": "prod region is eu-west-1",
+      "created_at": 1710000100,
+      "fingerprint": "a46dc33ddba1c154",
+      "id": "mem_9f21b35efe51",
+      "kind": "semantic",
+      "links": [],
+      "provenance": {
+        "detail": "",
+        "source": "user"
+      },
+      "superseded_by": null,
+      "supersedes": "mem_e90db6bede2d",
+      "tags": [
+        "infra"
+      ],
+      "tombstone_reason": null,
+      "tombstoned": false,
+      "ttl_secs": null
+    }
+  ],
+  "record_count": 7,
+  "tag_counts": {
+    "infra": 2,
+    "ops": 1,
+    "style": 1,
+    "ui": 2
+  }
+}

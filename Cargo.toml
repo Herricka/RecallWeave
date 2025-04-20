@@ -1,0 +1,28 @@
+[package]
+name = "recallweave"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.74"
+description = "A local-first agent memory lifecycle engine: typed memories in an append-only, integrity-chained log with dedupe, conflict detection, forgetting, compaction, verification, query, and portable export."
+license = "MIT"
+readme = "README.md"
+repository = "https://example.com/recallweave"
+keywords = ["memory", "agent", "append-only", "local-first", "cli"]
+categories = ["command-line-utilities", "data-structures"]
+
+# recallweave is intentionally dependency-free: standard library only.
+# See docs/MEMORY.md for the rationale.
+[dependencies]
+
+[lib]
+name = "recallweave"
+path = "src/lib.rs"
+
+[[bin]]
+name = "recallweave"
+path = "src/main.rs"
+
+[profile.release]
+opt-level = 3
+lto = true
+strip = true
