@@ -22,3 +22,5 @@ pub mod store;
 pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 
 // fix: clamp docs to the supported range
+
+// feat: add cli handling
