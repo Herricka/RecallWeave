@@ -321,3 +321,5 @@ fn extract_id(json: &str) -> String {
     let end = rest.find('"').expect("unterminated id");
     rest[..end].to_string()
 }
+
+// docs: add an example for benches
