@@ -830,3 +830,5 @@ mod tests {
         assert!(s2.verify().ok);
     }
 }
+
+// refactor: rename src for clarity
