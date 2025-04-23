@@ -223,3 +223,5 @@ fn reload_from_disk_matches_in_memory() {
     let pack = reopened.export_pack(100);
     assert_eq!(pack.get("live_count").and_then(Json::as_u64), Some(3));
 }
+
+// chore: tidy cli
