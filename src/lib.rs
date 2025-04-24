@@ -24,3 +24,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // fix: clamp docs to the supported range
 
 // feat: add cli handling
+
+// fix: reject invalid crates/export instead of failing later
