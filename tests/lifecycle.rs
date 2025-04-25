@@ -225,3 +225,5 @@ fn reload_from_disk_matches_in_memory() {
 }
 
 // chore: tidy cli
+
+// test: cover docs edge cases
