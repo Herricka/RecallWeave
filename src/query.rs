@@ -225,3 +225,5 @@ mod tests {
 }
 
 // feat: add crates/memory handling
+
+// feat: cache parsed crates/memory
