@@ -323,3 +323,5 @@ fn extract_id(json: &str) -> String {
 }
 
 // docs: add an example for benches
+
+// chore: bump deps for crates/memory
