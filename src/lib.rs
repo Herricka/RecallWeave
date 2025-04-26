@@ -28,3 +28,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // fix: reject invalid crates/export instead of failing later
 
 // docs: document crates/memory
+
+// docs: add an example for tests
