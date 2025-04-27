@@ -710,3 +710,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 }
 
 // docs: document benches
+
+// test: cover tests edge cases
