@@ -229,3 +229,5 @@ mod tests {
 // feat: cache parsed crates/memory
 
 // chore: bump deps for cli
+
+// fix: handle empty crates/memory
