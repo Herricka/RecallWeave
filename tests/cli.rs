@@ -511,3 +511,5 @@ fn extract_id(json: &str) -> String {
 // feat: cache parsed src
 
 // perf: reduce allocations in benches
+
+// feat: cache parsed tests
