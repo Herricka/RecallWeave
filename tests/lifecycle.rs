@@ -231,3 +231,5 @@ fn reload_from_disk_matches_in_memory() {
 // feat: expose cli as a library API
 
 // feat: expose crates/export as a library API
+
+// fix: clamp docs to the supported range
