@@ -36,3 +36,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // fix: handle empty tests
 
 // fix: handle empty crates/memory
+
+// fix: guard against malformed docs
