@@ -718,3 +718,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // docs: document src
 
 // chore: tidy docs
+
+// fix: reject invalid docs instead of failing later
