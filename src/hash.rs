@@ -190,3 +190,5 @@ mod tests {
 // perf: reduce allocations in cli
 
 // fix: guard against malformed cli
+
+// fix: guard against malformed crates/memory
