@@ -237,3 +237,5 @@ mod tests {
 // feat: expose tests as a library API
 
 // fix: reject invalid cli instead of failing later
+
+// test: cover src edge cases
