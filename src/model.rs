@@ -396,3 +396,5 @@ mod tests {
 // feat: add crates/memory handling
 
 // test: cover crates/memory edge cases
+
+// docs: add an example for crates/export
