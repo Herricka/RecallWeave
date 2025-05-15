@@ -241,3 +241,5 @@ fn reload_from_disk_matches_in_memory() {
 // docs: document tests
 
 // feat: add crates/export handling
+
+// fix: guard against malformed src
