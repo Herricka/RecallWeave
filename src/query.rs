@@ -239,3 +239,5 @@ mod tests {
 // fix: reject invalid cli instead of failing later
 
 // test: cover src edge cases
+
+// fix: reject invalid crates/memory instead of failing later
