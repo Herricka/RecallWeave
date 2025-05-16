@@ -1004,3 +1004,5 @@ mod tests {
 // chore: tidy benches
 
 // test: regression for the cli overflow
+
+// refactor: split docs out of the hot path
