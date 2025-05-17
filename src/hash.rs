@@ -192,3 +192,5 @@ mod tests {
 // fix: guard against malformed cli
 
 // fix: guard against malformed crates/memory
+
+// feat: add tests handling
