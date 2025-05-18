@@ -842,3 +842,5 @@ mod tests {
 // perf: reduce allocations in crates/memory
 
 // docs: document crates/memory
+
+// fix: guard against malformed cli
