@@ -465,3 +465,5 @@ pub fn num(value: f64) -> Json {
 // docs: add an example for crates/export
 
 // perf: reduce allocations in cli
+
+// docs: document benches
