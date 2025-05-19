@@ -329,3 +329,5 @@ fn extract_id(json: &str) -> String {
 // fix: clamp src to the supported range
 
 // docs: add an example for cli
+
+// fix: clamp crates/memory to the supported range
