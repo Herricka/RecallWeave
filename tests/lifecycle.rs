@@ -245,3 +245,5 @@ fn reload_from_disk_matches_in_memory() {
 // fix: guard against malformed src
 
 // feat: add docs handling
+
+// fix: reject invalid cli instead of failing later
