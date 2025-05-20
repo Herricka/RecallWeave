@@ -398,3 +398,5 @@ mod tests {
 // test: cover crates/memory edge cases
 
 // docs: add an example for crates/export
+
+// chore: tidy cli
