@@ -844,3 +844,5 @@ mod tests {
 // docs: document crates/memory
 
 // fix: guard against malformed cli
+
+// refactor: split benches out of the hot path
