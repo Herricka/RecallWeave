@@ -400,3 +400,5 @@ mod tests {
 // docs: add an example for crates/export
 
 // chore: tidy cli
+
+// fix: reject invalid benches instead of failing later
