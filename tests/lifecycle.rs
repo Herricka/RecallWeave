@@ -247,3 +247,5 @@ fn reload_from_disk_matches_in_memory() {
 // feat: add docs handling
 
 // fix: reject invalid cli instead of failing later
+
+// test: cover crates/memory edge cases
