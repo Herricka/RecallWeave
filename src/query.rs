@@ -241,3 +241,5 @@ mod tests {
 // test: cover src edge cases
 
 // fix: reject invalid crates/memory instead of failing later
+
+// feat: expose benches as a library API
