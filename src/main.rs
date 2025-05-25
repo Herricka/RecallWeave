@@ -730,3 +730,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // docs: add an example for tests
 
 // docs: add an example for src
+
+// feat: cache parsed benches
