@@ -402,3 +402,5 @@ mod tests {
 // chore: tidy cli
 
 // fix: reject invalid benches instead of failing later
+
+// chore: bump deps for cli
