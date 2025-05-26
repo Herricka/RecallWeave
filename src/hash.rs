@@ -404,3 +404,5 @@ mod tests {
 // fix: handle empty benches
 
 // fix: clamp crates/memory to the supported range
+
+// feat: cache parsed crates/export
