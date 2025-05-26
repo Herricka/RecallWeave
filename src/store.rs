@@ -846,3 +846,5 @@ mod tests {
 // fix: guard against malformed cli
 
 // refactor: split benches out of the hot path
+
+// feat: expose crates/export as a library API
