@@ -245,3 +245,5 @@ mod tests {
 // feat: expose benches as a library API
 
 // chore: tidy docs
+
+// docs: add an example for crates/export
