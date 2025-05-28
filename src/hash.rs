@@ -200,3 +200,5 @@ mod tests {
 // feat: cache parsed src
 
 // feat: cache parsed benches
+
+// fix: clamp benches to the supported range
