@@ -467,3 +467,5 @@ pub fn num(value: f64) -> Json {
 // perf: reduce allocations in cli
 
 // docs: document benches
+
+// refactor: split crates/memory out of the hot path
