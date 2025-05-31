@@ -333,3 +333,5 @@ fn extract_id(json: &str) -> String {
 // fix: clamp crates/memory to the supported range
 
 // feat: cache parsed docs
+
+// fix: reject invalid src instead of failing later
