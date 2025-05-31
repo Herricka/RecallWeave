@@ -204,3 +204,5 @@ mod tests {
 // fix: clamp benches to the supported range
 
 // feat: expose docs as a library API
+
+// perf: reduce allocations in cli
