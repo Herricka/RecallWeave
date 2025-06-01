@@ -206,3 +206,5 @@ mod tests {
 // feat: expose docs as a library API
 
 // perf: reduce allocations in cli
+
+// docs: add an example for benches
