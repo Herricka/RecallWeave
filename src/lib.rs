@@ -48,3 +48,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // fix: guard against malformed docs
 
 // chore: bump deps for cli
+
+// chore: tidy benches
