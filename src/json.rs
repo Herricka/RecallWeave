@@ -639,3 +639,5 @@ pub fn num(value: f64) -> Json {
 // chore: bump deps for crates/memory
 
 // refactor: rename src for clarity
+
+// feat: expose tests as a library API
