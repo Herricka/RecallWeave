@@ -852,3 +852,5 @@ mod tests {
 // fix: clamp crates/export to the supported range
 
 // refactor: split docs out of the hot path
+
+// perf: reduce allocations in benches
