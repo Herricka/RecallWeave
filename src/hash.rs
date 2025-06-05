@@ -208,3 +208,5 @@ mod tests {
 // perf: reduce allocations in cli
 
 // docs: add an example for benches
+
+// chore: bump deps for benches
