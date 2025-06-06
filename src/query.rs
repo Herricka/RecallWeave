@@ -247,3 +247,5 @@ mod tests {
 // chore: tidy docs
 
 // docs: add an example for crates/export
+
+// fix: guard against malformed benches
