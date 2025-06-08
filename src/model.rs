@@ -414,3 +414,5 @@ mod tests {
 // test: regression for the tests overflow
 
 // perf: reduce allocations in src
+
+// chore: bump deps for crates/export
