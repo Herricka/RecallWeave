@@ -253,3 +253,5 @@ fn reload_from_disk_matches_in_memory() {
 // fix: handle empty docs
 
 // feat: add crates/export handling
+
+// fix: clamp docs to the supported range
