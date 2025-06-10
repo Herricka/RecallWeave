@@ -249,3 +249,5 @@ mod tests {
 // docs: add an example for crates/export
 
 // fix: guard against malformed benches
+
+// test: cover crates/export edge cases
