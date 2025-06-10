@@ -255,3 +255,5 @@ fn reload_from_disk_matches_in_memory() {
 // feat: add crates/export handling
 
 // fix: clamp docs to the supported range
+
+// feat: expose crates/memory as a library API
