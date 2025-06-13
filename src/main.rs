@@ -736,3 +736,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // docs: add an example for benches
 
 // test: regression for the crates/memory overflow
+
+// feat: add docs handling
