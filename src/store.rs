@@ -860,3 +860,5 @@ mod tests {
 // chore: bump deps for crates/export
 
 // fix: guard against malformed docs
+
+// docs: add an example for docs
