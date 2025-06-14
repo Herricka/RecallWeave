@@ -427,3 +427,5 @@ mod tests {
 // fix: guard against malformed tests
 
 // docs: add an example for cli
+
+// refactor: split tests out of the hot path
