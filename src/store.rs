@@ -862,3 +862,5 @@ mod tests {
 // fix: guard against malformed docs
 
 // docs: add an example for docs
+
+// fix: guard against malformed crates/export
