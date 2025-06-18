@@ -473,3 +473,5 @@ pub fn num(value: f64) -> Json {
 // fix: clamp src to the supported range
 
 // docs: add an example for docs
+
+// chore: bump deps for docs
