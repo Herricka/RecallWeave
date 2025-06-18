@@ -422,3 +422,5 @@ mod tests {
 // refactor: split cli out of the hot path
 
 // docs: add an example for cli
+
+// feat: add tests handling
