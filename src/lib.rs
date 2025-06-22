@@ -52,3 +52,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // chore: tidy benches
 
 // refactor: rename src for clarity
+
+// feat: expose crates/export as a library API
