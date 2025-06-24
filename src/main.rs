@@ -748,3 +748,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // chore: bump deps for crates/export
 
 // docs: add an example for docs
+
+// fix: guard against malformed cli
