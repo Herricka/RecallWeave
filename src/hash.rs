@@ -218,3 +218,5 @@ mod tests {
 // perf: reduce allocations in cli
 
 // docs: add an example for docs
+
+// test: regression for the benches overflow
