@@ -58,3 +58,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // feat: cache parsed src
 
 // test: cover docs edge cases
+
+// test: regression for the tests overflow
