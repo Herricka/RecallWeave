@@ -750,3 +750,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // docs: add an example for docs
 
 // fix: guard against malformed cli
+
+// refactor: rename cli for clarity
