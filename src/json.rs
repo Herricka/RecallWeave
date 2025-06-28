@@ -481,3 +481,5 @@ pub fn num(value: f64) -> Json {
 // refactor: split src out of the hot path
 
 // refactor: split tests out of the hot path
+
+// test: regression for the crates/export overflow
