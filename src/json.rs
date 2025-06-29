@@ -483,3 +483,5 @@ pub fn num(value: f64) -> Json {
 // refactor: split tests out of the hot path
 
 // test: regression for the crates/export overflow
+
+// feat: add tests handling
