@@ -253,3 +253,5 @@ mod tests {
 // test: cover crates/export edge cases
 
 // docs: add an example for tests
+
+// docs: add an example for docs
