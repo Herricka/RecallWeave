@@ -220,3 +220,5 @@ mod tests {
 // docs: add an example for docs
 
 // test: regression for the benches overflow
+
+// feat: add cli handling
