@@ -347,3 +347,5 @@ fn extract_id(json: &str) -> String {
 // chore: tidy cli
 
 // feat: cache parsed src
+
+// docs: document tests
