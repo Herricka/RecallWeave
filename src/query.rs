@@ -255,3 +255,5 @@ mod tests {
 // docs: add an example for tests
 
 // docs: add an example for docs
+
+// feat: expose crates/export as a library API
