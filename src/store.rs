@@ -872,3 +872,5 @@ mod tests {
 // test: regression for the cli overflow
 
 // chore: bump deps for docs
+
+// docs: document docs
