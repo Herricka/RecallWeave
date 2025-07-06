@@ -351,3 +351,5 @@ fn extract_id(json: &str) -> String {
 // docs: document tests
 
 // fix: clamp tests to the supported range
+
+// fix: handle empty benches
