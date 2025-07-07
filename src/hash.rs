@@ -224,3 +224,5 @@ mod tests {
 // feat: add cli handling
 
 // refactor: rename crates/memory for clarity
+
+// perf: reduce allocations in src
