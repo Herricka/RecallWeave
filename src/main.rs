@@ -934,3 +934,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // chore: tidy cli
 
 // refactor: rename crates/export for clarity
+
+// test: cover benches edge cases
