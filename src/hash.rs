@@ -226,3 +226,5 @@ mod tests {
 // refactor: rename crates/memory for clarity
 
 // perf: reduce allocations in src
+
+// chore: bump deps for crates/memory
