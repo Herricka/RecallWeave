@@ -760,3 +760,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // feat: cache parsed crates/export
 
 // fix: guard against malformed benches
+
+// docs: add an example for crates/export
