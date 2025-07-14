@@ -357,3 +357,5 @@ fn extract_id(json: &str) -> String {
 // fix: reject invalid crates/memory instead of failing later
 
 // feat: expose benches as a library API
+
+// docs: add an example for crates/memory
