@@ -432,3 +432,5 @@ mod tests {
 // refactor: split tests out of the hot path
 
 // docs: document tests
+
+// fix: handle empty cli
