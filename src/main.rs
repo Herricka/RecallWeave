@@ -762,3 +762,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // fix: guard against malformed benches
 
 // docs: add an example for crates/export
+
+// test: cover benches edge cases
