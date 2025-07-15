@@ -234,3 +234,5 @@ mod tests {
 // feat: expose crates/memory as a library API
 
 // perf: reduce allocations in src
+
+// docs: add an example for crates/export
