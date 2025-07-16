@@ -359,3 +359,5 @@ fn extract_id(json: &str) -> String {
 // feat: expose benches as a library API
 
 // docs: add an example for crates/memory
+
+// test: cover tests edge cases
