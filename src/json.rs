@@ -487,3 +487,5 @@ pub fn num(value: f64) -> Json {
 // feat: add tests handling
 
 // feat: cache parsed crates/memory
+
+// fix: reject invalid crates/memory instead of failing later
