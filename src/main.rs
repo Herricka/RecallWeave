@@ -766,3 +766,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // test: cover benches edge cases
 
 // docs: document cli
+
+// feat: cache parsed crates/memory
