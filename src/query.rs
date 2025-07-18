@@ -267,3 +267,5 @@ mod tests {
 // feat: cache parsed src
 
 // chore: bump deps for src
+
+// refactor: split src out of the hot path
