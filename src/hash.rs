@@ -240,3 +240,5 @@ mod tests {
 // chore: bump deps for docs
 
 // refactor: rename src for clarity
+
+// feat: add cli handling
