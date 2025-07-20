@@ -491,3 +491,5 @@ pub fn num(value: f64) -> Json {
 // fix: reject invalid crates/memory instead of failing later
 
 // fix: guard against malformed src
+
+// perf: reduce allocations in crates/memory
