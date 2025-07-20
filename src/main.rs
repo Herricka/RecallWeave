@@ -768,3 +768,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // docs: document cli
 
 // feat: cache parsed crates/memory
+
+// docs: document cli
