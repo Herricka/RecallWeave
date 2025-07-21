@@ -269,3 +269,5 @@ fn reload_from_disk_matches_in_memory() {
 // docs: add an example for benches
 
 // chore: bump deps for tests
+
+// test: regression for the crates/export overflow
