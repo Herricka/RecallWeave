@@ -495,3 +495,5 @@ pub fn num(value: f64) -> Json {
 // perf: reduce allocations in crates/memory
 
 // test: cover src edge cases
+
+// fix: handle empty tests
