@@ -440,3 +440,5 @@ mod tests {
 // chore: bump deps for docs
 
 // feat: cache parsed cli
+
+// perf: reduce allocations in docs
