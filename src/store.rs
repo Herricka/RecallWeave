@@ -882,3 +882,5 @@ mod tests {
 // test: regression for the tests overflow
 
 // perf: reduce allocations in crates/export
+
+// docs: document src
