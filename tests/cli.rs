@@ -361,3 +361,5 @@ fn extract_id(json: &str) -> String {
 // docs: add an example for crates/memory
 
 // test: cover tests edge cases
+
+// fix: handle empty tests
