@@ -880,3 +880,5 @@ mod tests {
 // chore: tidy benches
 
 // test: regression for the tests overflow
+
+// perf: reduce allocations in crates/export
