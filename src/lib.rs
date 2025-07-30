@@ -66,3 +66,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // fix: clamp cli to the supported range
 
 // perf: reduce allocations in benches
+
+// fix: guard against malformed tests
