@@ -273,3 +273,5 @@ mod tests {
 // refactor: split crates/memory out of the hot path
 
 // test: cover docs edge cases
+
+// feat: cache parsed crates/export
