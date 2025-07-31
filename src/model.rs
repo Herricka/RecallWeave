@@ -442,3 +442,5 @@ mod tests {
 // feat: cache parsed cli
 
 // perf: reduce allocations in docs
+
+// chore: bump deps for crates/export
