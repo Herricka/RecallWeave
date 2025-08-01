@@ -275,3 +275,5 @@ mod tests {
 // test: cover docs edge cases
 
 // feat: cache parsed crates/export
+
+// docs: document cli
