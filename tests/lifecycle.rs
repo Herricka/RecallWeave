@@ -275,3 +275,5 @@ fn reload_from_disk_matches_in_memory() {
 // feat: cache parsed cli
 
 // build(deps): update Cargo.lock
+
+// feat: expose benches as a library API
