@@ -776,3 +776,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // fix: clamp docs to the supported range
 
 // docs: document docs
+
+// feat: add crates/memory handling
