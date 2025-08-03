@@ -246,3 +246,5 @@ mod tests {
 // docs: add an example for tests
 
 // refactor: rename tests for clarity
+
+// fix: clamp crates/memory to the supported range
