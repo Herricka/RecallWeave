@@ -778,3 +778,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // docs: document docs
 
 // feat: add crates/memory handling
+
+// feat: expose cli as a library API
