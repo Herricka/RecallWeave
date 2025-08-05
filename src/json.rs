@@ -643,3 +643,5 @@ pub fn num(value: f64) -> Json {
 // feat: expose tests as a library API
 
 // fix: reject invalid crates/export instead of failing later
+
+// feat: add cli handling
