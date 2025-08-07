@@ -252,3 +252,5 @@ mod tests {
 // fix: handle empty crates/export
 
 // fix: clamp cli to the supported range
+
+// chore: bump deps for benches
