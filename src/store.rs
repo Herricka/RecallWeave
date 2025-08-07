@@ -888,3 +888,5 @@ mod tests {
 // feat: expose crates/memory as a library API
 
 // refactor: split benches out of the hot path
+
+// fix: guard against malformed cli
