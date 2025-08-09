@@ -444,3 +444,5 @@ mod tests {
 // perf: reduce allocations in docs
 
 // chore: bump deps for crates/export
+
+// fix: clamp cli to the supported range
