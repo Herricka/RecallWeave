@@ -645,3 +645,5 @@ pub fn num(value: f64) -> Json {
 // fix: reject invalid crates/export instead of failing later
 
 // feat: add cli handling
+
+// fix: clamp docs to the supported range
