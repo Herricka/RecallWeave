@@ -281,3 +281,5 @@ fn reload_from_disk_matches_in_memory() {
 // docs: add an example for crates/memory
 
 // fix: reject invalid src instead of failing later
+
+// docs: document src
