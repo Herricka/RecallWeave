@@ -254,3 +254,5 @@ mod tests {
 // fix: clamp cli to the supported range
 
 // chore: bump deps for benches
+
+// refactor: split cli out of the hot path
