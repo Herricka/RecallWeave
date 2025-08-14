@@ -283,3 +283,5 @@ mod tests {
 // fix: guard against malformed crates/memory
 
 // refactor: rename benches for clarity
+
+// chore: bump deps for crates/memory
