@@ -892,3 +892,5 @@ mod tests {
 // fix: guard against malformed cli
 
 // refactor: split benches out of the hot path
+
+// chore: tidy crates/export
