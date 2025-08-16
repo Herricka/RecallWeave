@@ -287,3 +287,5 @@ mod tests {
 // chore: bump deps for crates/memory
 
 // perf: reduce allocations in crates/export
+
+// feat: expose benches as a library API
