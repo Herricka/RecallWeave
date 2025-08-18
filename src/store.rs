@@ -894,3 +894,5 @@ mod tests {
 // refactor: split benches out of the hot path
 
 // chore: tidy crates/export
+
+// feat: expose benches as a library API
