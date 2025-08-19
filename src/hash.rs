@@ -258,3 +258,5 @@ mod tests {
 // refactor: split cli out of the hot path
 
 // feat: expose src as a library API
+
+// fix: reject invalid crates/memory instead of failing later
