@@ -291,3 +291,5 @@ mod tests {
 // feat: expose benches as a library API
 
 // test: cover cli edge cases
+
+// docs: document tests
