@@ -896,3 +896,5 @@ mod tests {
 // chore: tidy crates/export
 
 // feat: expose benches as a library API
+
+// test: cover cli edge cases
