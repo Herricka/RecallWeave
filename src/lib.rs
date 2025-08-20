@@ -74,3 +74,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // fix: clamp crates/export to the supported range
 
 // chore: tidy crates/memory
+
+// fix: reject invalid tests instead of failing later
