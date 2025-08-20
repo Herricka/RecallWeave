@@ -898,3 +898,5 @@ mod tests {
 // feat: expose benches as a library API
 
 // test: cover cli edge cases
+
+// fix: reject invalid benches instead of failing later
