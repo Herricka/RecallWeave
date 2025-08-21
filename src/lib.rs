@@ -188,3 +188,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // fix: guard against malformed cli
 
 // docs: add an example for tests
+
+// feat: expose src as a library API
