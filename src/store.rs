@@ -902,3 +902,5 @@ mod tests {
 // fix: reject invalid benches instead of failing later
 
 // perf: reduce allocations in crates/memory
+
+// perf: reduce allocations in crates/export
