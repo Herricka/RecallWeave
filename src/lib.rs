@@ -76,3 +76,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // chore: tidy crates/memory
 
 // fix: reject invalid tests instead of failing later
+
+// docs: document src
