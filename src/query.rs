@@ -293,3 +293,5 @@ mod tests {
 // test: cover cli edge cases
 
 // docs: document tests
+
+// fix: clamp src to the supported range
