@@ -295,3 +295,5 @@ mod tests {
 // docs: document tests
 
 // fix: clamp src to the supported range
+
+// feat: add docs handling
