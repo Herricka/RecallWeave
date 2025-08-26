@@ -80,3 +80,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // docs: document src
 
 // fix: clamp src to the supported range
+
+// fix: guard against malformed benches
