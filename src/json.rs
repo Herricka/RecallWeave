@@ -505,3 +505,5 @@ pub fn num(value: f64) -> Json {
 // test: cover tests edge cases
 
 // feat: cache parsed docs
+
+// feat: cache parsed crates/export
