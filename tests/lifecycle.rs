@@ -285,3 +285,5 @@ fn reload_from_disk_matches_in_memory() {
 // docs: document src
 
 // feat: add tests handling
+
+// refactor: split src out of the hot path
