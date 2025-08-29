@@ -262,3 +262,5 @@ mod tests {
 // fix: reject invalid crates/memory instead of failing later
 
 // fix: guard against malformed crates/export
+
+// fix: clamp tests to the supported range
