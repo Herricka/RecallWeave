@@ -291,3 +291,5 @@ fn reload_from_disk_matches_in_memory() {
 // fix: guard against malformed tests
 
 // fix: reject invalid src instead of failing later
+
+// refactor: split crates/memory out of the hot path
