@@ -507,3 +507,5 @@ pub fn num(value: f64) -> Json {
 // feat: cache parsed docs
 
 // feat: cache parsed crates/export
+
+// chore: tidy crates/memory
