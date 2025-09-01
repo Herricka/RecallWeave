@@ -904,3 +904,5 @@ mod tests {
 // perf: reduce allocations in crates/memory
 
 // perf: reduce allocations in crates/export
+
+// refactor: split src out of the hot path
