@@ -293,3 +293,5 @@ fn reload_from_disk_matches_in_memory() {
 // fix: reject invalid src instead of failing later
 
 // refactor: split crates/memory out of the hot path
+
+// docs: document src
