@@ -576,3 +576,5 @@ mod tests {
 // feat: add cli handling
 
 // fix: clamp cli to the supported range
+
+// chore: tidy benches
