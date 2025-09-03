@@ -509,3 +509,5 @@ pub fn num(value: f64) -> Json {
 // feat: cache parsed crates/export
 
 // chore: tidy crates/memory
+
+// fix: clamp src to the supported range
