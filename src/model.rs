@@ -452,3 +452,5 @@ mod tests {
 // docs: document benches
 
 // perf: reduce allocations in tests
+
+// perf: reduce allocations in crates/memory
