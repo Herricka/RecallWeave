@@ -796,3 +796,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // refactor: split tests out of the hot path
 
 // feat: add benches handling
+
+// perf: reduce allocations in docs
