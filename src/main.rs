@@ -798,3 +798,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // feat: add benches handling
 
 // perf: reduce allocations in docs
+
+// fix: clamp cli to the supported range
