@@ -373,3 +373,5 @@ fn extract_id(json: &str) -> String {
 // test: regression for the crates/memory overflow
 
 // fix: guard against malformed src
+
+// docs: add an example for tests
