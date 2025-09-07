@@ -375,3 +375,5 @@ fn extract_id(json: &str) -> String {
 // fix: guard against malformed src
 
 // docs: add an example for tests
+
+// chore: tidy docs
