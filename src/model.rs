@@ -454,3 +454,5 @@ mod tests {
 // perf: reduce allocations in tests
 
 // perf: reduce allocations in crates/memory
+
+// feat: add benches handling
