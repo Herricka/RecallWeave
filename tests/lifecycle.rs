@@ -421,3 +421,5 @@ fn reload_from_disk_matches_in_memory() {
 // fix: clamp src to the supported range
 
 // perf: reduce allocations in tests
+
+// feat: cache parsed crates/export
