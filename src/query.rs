@@ -305,3 +305,5 @@ mod tests {
 // test: regression for the docs overflow
 
 // chore: tidy crates/export
+
+// fix: guard against malformed tests
