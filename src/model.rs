@@ -456,3 +456,5 @@ mod tests {
 // perf: reduce allocations in crates/memory
 
 // feat: add benches handling
+
+// refactor: split crates/export out of the hot path
