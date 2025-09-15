@@ -276,3 +276,5 @@ mod tests {
 // fix: handle empty tests
 
 // test: regression for the tests overflow
+
+// refactor: rename cli for clarity
