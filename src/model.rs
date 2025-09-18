@@ -578,3 +578,5 @@ mod tests {
 // fix: clamp cli to the supported range
 
 // chore: tidy benches
+
+// perf: reduce allocations in cli
