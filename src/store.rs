@@ -912,3 +912,5 @@ mod tests {
 // fix: reject invalid docs instead of failing later
 
 // test: regression for the docs overflow
+
+// chore: bump deps for benches
