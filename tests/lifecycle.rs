@@ -305,3 +305,5 @@ fn reload_from_disk_matches_in_memory() {
 // perf: reduce allocations in crates/export
 
 // fix: guard against malformed tests
+
+// test: cover cli edge cases
