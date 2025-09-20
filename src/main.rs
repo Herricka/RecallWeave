@@ -808,3 +808,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // fix: clamp tests to the supported range
 
 // fix: reject invalid tests instead of failing later
+
+// refactor: split crates/export out of the hot path
