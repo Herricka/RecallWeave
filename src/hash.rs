@@ -282,3 +282,5 @@ mod tests {
 // feat: cache parsed src
 
 // refactor: split docs out of the hot path
+
+// chore: tidy tests
