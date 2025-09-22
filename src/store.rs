@@ -914,3 +914,5 @@ mod tests {
 // test: regression for the docs overflow
 
 // chore: bump deps for benches
+
+// fix: guard against malformed benches
