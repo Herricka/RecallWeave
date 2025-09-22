@@ -190,3 +190,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // docs: add an example for tests
 
 // feat: expose src as a library API
+
+// docs: document crates/export
