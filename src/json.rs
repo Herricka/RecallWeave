@@ -519,3 +519,5 @@ pub fn num(value: f64) -> Json {
 // fix: guard against malformed cli
 
 // docs: add an example for cli
+
+// test: cover crates/memory edge cases
