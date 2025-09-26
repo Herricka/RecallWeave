@@ -286,3 +286,5 @@ mod tests {
 // chore: tidy tests
 
 // test: regression for the crates/export overflow
+
+// docs: document crates/memory
