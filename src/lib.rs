@@ -192,3 +192,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // feat: expose src as a library API
 
 // docs: document crates/export
+
+// fix: clamp src to the supported range
