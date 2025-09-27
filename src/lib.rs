@@ -90,3 +90,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // docs: add an example for crates/memory
 
 // perf: reduce allocations in benches
+
+// feat: add src handling
