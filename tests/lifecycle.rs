@@ -307,3 +307,5 @@ fn reload_from_disk_matches_in_memory() {
 // fix: guard against malformed tests
 
 // test: cover cli edge cases
+
+// test: cover benches edge cases
