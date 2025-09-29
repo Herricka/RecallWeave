@@ -521,3 +521,5 @@ pub fn num(value: f64) -> Json {
 // docs: add an example for cli
 
 // test: cover crates/memory edge cases
+
+// fix: clamp crates/export to the supported range
