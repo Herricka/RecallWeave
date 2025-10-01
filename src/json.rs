@@ -523,3 +523,5 @@ pub fn num(value: f64) -> Json {
 // test: cover crates/memory edge cases
 
 // fix: clamp crates/export to the supported range
+
+// test: regression for the benches overflow
