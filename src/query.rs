@@ -437,3 +437,5 @@ mod tests {
 // docs: add an example for src
 
 // test: regression for the tests overflow
+
+// fix: handle empty cli
