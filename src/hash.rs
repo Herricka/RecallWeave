@@ -290,3 +290,5 @@ mod tests {
 // docs: document crates/memory
 
 // test: cover benches edge cases
+
+// refactor: rename docs for clarity
