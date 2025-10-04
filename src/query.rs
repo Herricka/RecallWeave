@@ -317,3 +317,5 @@ mod tests {
 // chore: tidy benches
 
 // docs: document crates/memory
+
+// feat: expose src as a library API
