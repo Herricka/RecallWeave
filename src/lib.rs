@@ -94,3 +94,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // feat: add src handling
 
 // docs: add an example for docs
+
+// fix: guard against malformed src
