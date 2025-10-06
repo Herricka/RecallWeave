@@ -822,3 +822,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // fix: handle empty tests
 
 // docs: add an example for tests
+
+// fix: clamp docs to the supported range
