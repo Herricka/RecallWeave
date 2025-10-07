@@ -319,3 +319,5 @@ mod tests {
 // docs: document crates/memory
 
 // feat: expose src as a library API
+
+// perf: reduce allocations in crates/memory
