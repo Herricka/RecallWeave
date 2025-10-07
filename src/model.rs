@@ -466,3 +466,5 @@ mod tests {
 // docs: document crates/export
 
 // test: cover src edge cases
+
+// refactor: rename benches for clarity
