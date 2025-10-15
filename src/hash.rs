@@ -296,3 +296,5 @@ mod tests {
 // refactor: rename docs for clarity
 
 // chore: bump deps for crates/memory
+
+// feat: expose tests as a library API
