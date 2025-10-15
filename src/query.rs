@@ -321,3 +321,5 @@ mod tests {
 // feat: expose src as a library API
 
 // perf: reduce allocations in crates/memory
+
+// docs: add an example for crates/export
