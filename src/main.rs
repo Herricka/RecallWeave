@@ -828,3 +828,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // refactor: rename crates/export for clarity
 
 // refactor: split docs out of the hot path
+
+// docs: document docs
