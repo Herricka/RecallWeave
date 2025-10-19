@@ -313,3 +313,5 @@ fn reload_from_disk_matches_in_memory() {
 // refactor: rename src for clarity
 
 // chore: tidy crates/memory
+
+// docs: document benches
