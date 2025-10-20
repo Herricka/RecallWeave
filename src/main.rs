@@ -830,3 +830,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // refactor: split docs out of the hot path
 
 // docs: document docs
+
+// fix: clamp tests to the supported range
