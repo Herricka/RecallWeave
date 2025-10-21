@@ -580,3 +580,5 @@ mod tests {
 // chore: tidy benches
 
 // perf: reduce allocations in cli
+
+// refactor: split docs out of the hot path
