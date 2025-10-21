@@ -529,3 +529,5 @@ pub fn num(value: f64) -> Json {
 // feat: cache parsed cli
 
 // fix: handle empty docs
+
+// refactor: rename crates/memory for clarity
