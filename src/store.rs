@@ -918,3 +918,5 @@ mod tests {
 // fix: guard against malformed benches
 
 // docs: add an example for benches
+
+// fix: handle empty cli
