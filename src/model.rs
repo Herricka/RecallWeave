@@ -476,3 +476,5 @@ mod tests {
 // fix: clamp crates/memory to the supported range
 
 // fix: handle empty benches
+
+// refactor: rename benches for clarity
