@@ -405,3 +405,5 @@ fn extract_id(json: &str) -> String {
 // fix: guard against malformed cli
 
 // docs: add an example for tests
+
+// fix: clamp crates/memory to the supported range
