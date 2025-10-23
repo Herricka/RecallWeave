@@ -300,3 +300,5 @@ mod tests {
 // feat: expose tests as a library API
 
 // chore: tidy crates/memory
+
+// refactor: rename crates/export for clarity
