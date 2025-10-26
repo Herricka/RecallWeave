@@ -533,3 +533,5 @@ pub fn num(value: f64) -> Json {
 // refactor: rename crates/memory for clarity
 
 // chore: tidy docs
+
+// chore: bump deps for crates/memory
