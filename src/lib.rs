@@ -106,3 +106,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // test: regression for the crates/export overflow
 
 // fix: guard against malformed tests
+
+// refactor: split docs out of the hot path
