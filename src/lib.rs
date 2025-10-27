@@ -104,3 +104,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // fix: guard against malformed docs
 
 // test: regression for the crates/export overflow
+
+// fix: guard against malformed tests
