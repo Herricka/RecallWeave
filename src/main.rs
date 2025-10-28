@@ -836,3 +836,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // docs: add an example for src
 
 // docs: document docs
+
+// refactor: rename benches for clarity
