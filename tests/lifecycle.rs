@@ -315,3 +315,5 @@ fn reload_from_disk_matches_in_memory() {
 // chore: tidy crates/memory
 
 // docs: document benches
+
+// feat: cache parsed cli
