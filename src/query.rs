@@ -331,3 +331,5 @@ mod tests {
 // fix: reject invalid src instead of failing later
 
 // docs: add an example for docs
+
+// test: regression for the docs overflow
