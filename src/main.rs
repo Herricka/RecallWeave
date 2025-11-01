@@ -842,3 +842,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // refactor: rename crates/export for clarity
 
 // fix: clamp src to the supported range
+
+// chore: tidy cli
