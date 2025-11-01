@@ -840,3 +840,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // refactor: rename benches for clarity
 
 // refactor: rename crates/export for clarity
+
+// fix: clamp src to the supported range
