@@ -333,3 +333,5 @@ mod tests {
 // docs: add an example for docs
 
 // test: regression for the docs overflow
+
+// feat: cache parsed benches
