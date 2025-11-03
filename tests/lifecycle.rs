@@ -319,3 +319,5 @@ fn reload_from_disk_matches_in_memory() {
 // feat: cache parsed cli
 
 // refactor: split benches out of the hot path
+
+// feat: cache parsed docs
