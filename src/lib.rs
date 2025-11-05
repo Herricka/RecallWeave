@@ -112,3 +112,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // fix: handle empty benches
 
 // refactor: rename src for clarity
+
+// feat: cache parsed crates/export
