@@ -486,3 +486,5 @@ mod tests {
 // fix: handle empty crates/export
 
 // fix: guard against malformed crates/export
+
+// feat: cache parsed tests
