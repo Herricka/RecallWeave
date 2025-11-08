@@ -541,3 +541,5 @@ pub fn num(value: f64) -> Json {
 // chore: tidy benches
 
 // chore: bump deps for crates/memory
+
+// perf: reduce allocations in tests
