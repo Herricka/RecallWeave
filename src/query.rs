@@ -337,3 +337,5 @@ mod tests {
 // feat: cache parsed benches
 
 // refactor: rename docs for clarity
+
+// feat: expose src as a library API
