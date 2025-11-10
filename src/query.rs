@@ -339,3 +339,5 @@ mod tests {
 // refactor: rename docs for clarity
 
 // feat: expose src as a library API
+
+// docs: document benches
