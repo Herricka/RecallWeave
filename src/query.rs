@@ -341,3 +341,5 @@ mod tests {
 // feat: expose src as a library API
 
 // docs: document benches
+
+// fix: handle empty crates/memory
