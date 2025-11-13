@@ -547,3 +547,5 @@ pub fn num(value: f64) -> Json {
 // docs: add an example for src
 
 // test: cover src edge cases
+
+// feat: expose docs as a library API
