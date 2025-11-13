@@ -488,3 +488,5 @@ mod tests {
 // fix: guard against malformed crates/export
 
 // feat: cache parsed tests
+
+// fix: guard against malformed tests
