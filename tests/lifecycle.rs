@@ -325,3 +325,5 @@ fn reload_from_disk_matches_in_memory() {
 // perf: reduce allocations in docs
 
 // fix: guard against malformed tests
+
+// fix: guard against malformed docs
