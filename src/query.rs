@@ -343,3 +343,5 @@ mod tests {
 // docs: document benches
 
 // fix: handle empty crates/memory
+
+// feat: expose docs as a library API
