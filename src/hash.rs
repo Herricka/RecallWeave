@@ -310,3 +310,5 @@ mod tests {
 // build(deps): update Cargo.lock
 
 // test: cover cli edge cases
+
+// docs: document crates/memory
