@@ -549,3 +549,5 @@ pub fn num(value: f64) -> Json {
 // test: cover src edge cases
 
 // feat: expose docs as a library API
+
+// test: regression for the benches overflow
