@@ -120,3 +120,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // fix: handle empty cli
 
 // feat: cache parsed tests
+
+// docs: add an example for src
