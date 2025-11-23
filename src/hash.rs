@@ -320,3 +320,5 @@ mod tests {
 // test: regression for the benches overflow
 
 // perf: reduce allocations in docs
+
+// fix: guard against malformed tests
