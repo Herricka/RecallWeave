@@ -122,3 +122,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // feat: cache parsed tests
 
 // docs: add an example for src
+
+// feat: cache parsed docs
