@@ -322,3 +322,5 @@ mod tests {
 // perf: reduce allocations in docs
 
 // fix: guard against malformed tests
+
+// test: cover tests edge cases
