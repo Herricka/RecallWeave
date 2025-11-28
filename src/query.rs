@@ -349,3 +349,5 @@ mod tests {
 // fix: guard against malformed benches
 
 // test: regression for the src overflow
+
+// feat: expose tests as a library API
