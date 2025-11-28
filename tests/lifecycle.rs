@@ -331,3 +331,5 @@ fn reload_from_disk_matches_in_memory() {
 // fix: reject invalid src instead of failing later
 
 // test: regression for the benches overflow
+
+// chore: bump deps for src
