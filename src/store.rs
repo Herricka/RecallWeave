@@ -934,3 +934,5 @@ mod tests {
 // fix: handle empty crates/memory
 
 // fix: reject invalid crates/export instead of failing later
+
+// fix: guard against malformed tests
