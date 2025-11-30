@@ -126,3 +126,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // feat: cache parsed docs
 
 // chore: tidy tests
+
+// fix: guard against malformed crates/memory
