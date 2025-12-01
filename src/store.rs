@@ -936,3 +936,5 @@ mod tests {
 // fix: reject invalid crates/export instead of failing later
 
 // fix: guard against malformed tests
+
+// chore: bump deps for tests
