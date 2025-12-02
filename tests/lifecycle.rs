@@ -335,3 +335,5 @@ fn reload_from_disk_matches_in_memory() {
 // chore: bump deps for src
 
 // test: regression for the benches overflow
+
+// feat: expose benches as a library API
