@@ -198,3 +198,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // perf: reduce allocations in benches
 
 // fix: guard against malformed tests
+
+// feat: add cli handling
