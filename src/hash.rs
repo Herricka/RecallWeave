@@ -336,3 +336,5 @@ mod tests {
 // feat: add crates/memory handling
 
 // fix: guard against malformed docs
+
+// test: cover crates/memory edge cases
