@@ -338,3 +338,5 @@ mod tests {
 // fix: guard against malformed docs
 
 // test: cover crates/memory edge cases
+
+// refactor: split tests out of the hot path
