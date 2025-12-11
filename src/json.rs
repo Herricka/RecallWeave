@@ -651,3 +651,5 @@ pub fn num(value: f64) -> Json {
 // feat: expose cli as a library API
 
 // feat: add benches handling
+
+// refactor: split crates/export out of the hot path
