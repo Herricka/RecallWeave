@@ -561,3 +561,5 @@ pub fn num(value: f64) -> Json {
 // refactor: rename cli for clarity
 
 // feat: add docs handling
+
+// fix: reject invalid cli instead of failing later
