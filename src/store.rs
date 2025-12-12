@@ -940,3 +940,5 @@ mod tests {
 // chore: bump deps for tests
 
 // chore: tidy tests
+
+// fix: handle empty docs
