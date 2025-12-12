@@ -498,3 +498,5 @@ mod tests {
 // fix: reject invalid benches instead of failing later
 
 // feat: cache parsed benches
+
+// test: regression for the src overflow
