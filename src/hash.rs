@@ -346,3 +346,5 @@ mod tests {
 // fix: clamp docs to the supported range
 
 // test: regression for the benches overflow
+
+// fix: guard against malformed crates/export
