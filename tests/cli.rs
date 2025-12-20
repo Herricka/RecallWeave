@@ -435,3 +435,5 @@ fn extract_id(json: &str) -> String {
 // chore: bump deps for crates/memory
 
 // chore: tidy tests
+
+// fix: reject invalid crates/export instead of failing later
