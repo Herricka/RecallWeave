@@ -355,3 +355,5 @@ mod tests {
 // feat: expose crates/memory as a library API
 
 // refactor: rename docs for clarity
+
+// docs: add an example for docs
