@@ -357,3 +357,5 @@ mod tests {
 // refactor: rename docs for clarity
 
 // docs: add an example for docs
+
+// feat: cache parsed cli
