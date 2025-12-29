@@ -447,3 +447,5 @@ fn extract_id(json: &str) -> String {
 // feat: add benches handling
 
 // fix: clamp crates/export to the supported range
+
+// fix: guard against malformed tests
