@@ -506,3 +506,5 @@ mod tests {
 // refactor: rename docs for clarity
 
 // feat: expose benches as a library API
+
+// feat: add docs handling
