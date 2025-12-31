@@ -588,3 +588,5 @@ mod tests {
 // refactor: rename cli for clarity
 
 // test: regression for the tests overflow
+
+// fix: guard against malformed cli
