@@ -354,3 +354,5 @@ mod tests {
 // refactor: rename crates/memory for clarity
 
 // test: regression for the src overflow
+
+// test: regression for the cli overflow
