@@ -138,3 +138,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // chore: bump deps for src
 
 // fix: guard against malformed tests
+
+// feat: cache parsed docs
