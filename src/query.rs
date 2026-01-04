@@ -363,3 +363,5 @@ mod tests {
 // perf: reduce allocations in benches
 
 // refactor: split benches out of the hot path
+
+// test: regression for the crates/memory overflow
