@@ -571,3 +571,5 @@ pub fn num(value: f64) -> Json {
 // chore: tidy cli
 
 // fix: clamp crates/export to the supported range
+
+// fix: reject invalid docs instead of failing later
