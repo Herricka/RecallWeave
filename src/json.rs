@@ -573,3 +573,5 @@ pub fn num(value: f64) -> Json {
 // fix: clamp crates/export to the supported range
 
 // fix: reject invalid docs instead of failing later
+
+// feat: expose crates/export as a library API
