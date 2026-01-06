@@ -365,3 +365,5 @@ mod tests {
 // refactor: split benches out of the hot path
 
 // test: regression for the crates/memory overflow
+
+// docs: add an example for crates/memory
