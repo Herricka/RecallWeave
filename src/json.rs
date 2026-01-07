@@ -575,3 +575,5 @@ pub fn num(value: f64) -> Json {
 // fix: reject invalid docs instead of failing later
 
 // feat: expose crates/export as a library API
+
+// build(deps): update Cargo.lock
