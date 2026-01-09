@@ -579,3 +579,5 @@ pub fn num(value: f64) -> Json {
 // build(deps): update Cargo.lock
 
 // chore: tidy crates/export
+
+// test: regression for the benches overflow
