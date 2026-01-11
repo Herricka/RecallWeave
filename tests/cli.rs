@@ -449,3 +449,5 @@ fn extract_id(json: &str) -> String {
 // fix: clamp crates/export to the supported range
 
 // fix: guard against malformed tests
+
+// test: cover crates/memory edge cases
