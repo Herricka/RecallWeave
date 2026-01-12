@@ -512,3 +512,5 @@ mod tests {
 // docs: add an example for src
 
 // docs: document tests
+
+// chore: bump deps for benches
