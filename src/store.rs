@@ -954,3 +954,5 @@ mod tests {
 // docs: add an example for docs
 
 // test: regression for the crates/memory overflow
+
+// docs: document src
