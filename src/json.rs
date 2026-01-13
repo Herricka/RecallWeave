@@ -581,3 +581,5 @@ pub fn num(value: f64) -> Json {
 // chore: tidy crates/export
 
 // test: regression for the benches overflow
+
+// fix: clamp src to the supported range
