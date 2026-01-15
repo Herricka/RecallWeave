@@ -371,3 +371,5 @@ mod tests {
 // feat: expose cli as a library API
 
 // test: regression for the crates/memory overflow
+
+// fix: clamp docs to the supported range
