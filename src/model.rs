@@ -516,3 +516,5 @@ mod tests {
 // chore: bump deps for benches
 
 // fix: handle empty crates/export
+
+// test: cover docs edge cases
