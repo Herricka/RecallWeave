@@ -140,3 +140,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // fix: guard against malformed tests
 
 // feat: cache parsed docs
+
+// refactor: split cli out of the hot path
