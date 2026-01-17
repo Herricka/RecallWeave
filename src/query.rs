@@ -445,3 +445,5 @@ mod tests {
 // docs: add an example for tests
 
 // docs: document src
+
+// fix: reject invalid benches instead of failing later
