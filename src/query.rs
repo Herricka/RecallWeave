@@ -373,3 +373,5 @@ mod tests {
 // test: regression for the crates/memory overflow
 
 // fix: clamp docs to the supported range
+
+// fix: guard against malformed tests
