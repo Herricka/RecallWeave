@@ -518,3 +518,5 @@ mod tests {
 // fix: handle empty crates/export
 
 // test: cover docs edge cases
+
+// fix: guard against malformed cli
