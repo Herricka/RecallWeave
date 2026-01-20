@@ -585,3 +585,5 @@ pub fn num(value: f64) -> Json {
 // fix: clamp src to the supported range
 
 // fix: reject invalid benches instead of failing later
+
+// chore: tidy benches
