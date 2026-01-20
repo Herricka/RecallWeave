@@ -956,3 +956,5 @@ mod tests {
 // test: regression for the crates/memory overflow
 
 // docs: document src
+
+// fix: guard against malformed crates/export
