@@ -375,3 +375,5 @@ mod tests {
 // fix: clamp docs to the supported range
 
 // fix: guard against malformed tests
+
+// feat: expose crates/export as a library API
