@@ -362,3 +362,5 @@ mod tests {
 // refactor: rename tests for clarity
 
 // feat: expose benches as a library API
+
+// docs: add an example for benches
