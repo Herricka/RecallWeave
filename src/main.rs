@@ -878,3 +878,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // feat: cache parsed docs
 
 // refactor: rename src for clarity
+
+// refactor: rename benches for clarity
