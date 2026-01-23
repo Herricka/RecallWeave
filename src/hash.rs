@@ -364,3 +364,5 @@ mod tests {
 // feat: expose benches as a library API
 
 // docs: add an example for benches
+
+// refactor: split cli out of the hot path
