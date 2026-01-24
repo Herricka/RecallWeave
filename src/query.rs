@@ -449,3 +449,5 @@ mod tests {
 // fix: reject invalid benches instead of failing later
 
 // fix: guard against malformed cli
+
+// chore: bump deps for crates/memory
