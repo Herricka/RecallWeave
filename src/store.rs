@@ -960,3 +960,5 @@ mod tests {
 // fix: guard against malformed crates/export
 
 // feat: expose crates/export as a library API
+
+// refactor: split benches out of the hot path
