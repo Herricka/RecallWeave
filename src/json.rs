@@ -587,3 +587,5 @@ pub fn num(value: f64) -> Json {
 // fix: reject invalid benches instead of failing later
 
 // chore: tidy benches
+
+// fix: guard against malformed docs
