@@ -377,3 +377,5 @@ mod tests {
 // fix: guard against malformed tests
 
 // feat: expose crates/export as a library API
+
+// refactor: rename crates/export for clarity
