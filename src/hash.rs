@@ -366,3 +366,5 @@ mod tests {
 // docs: add an example for benches
 
 // refactor: split cli out of the hot path
+
+// refactor: rename docs for clarity
