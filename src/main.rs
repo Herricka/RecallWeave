@@ -882,3 +882,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // refactor: rename benches for clarity
 
 // fix: reject invalid crates/export instead of failing later
+
+// refactor: split cli out of the hot path
