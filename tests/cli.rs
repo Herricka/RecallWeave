@@ -453,3 +453,5 @@ fn extract_id(json: &str) -> String {
 // test: cover crates/memory edge cases
 
 // chore: bump deps for docs
+
+// refactor: rename cli for clarity
