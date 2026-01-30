@@ -591,3 +591,5 @@ pub fn num(value: f64) -> Json {
 // fix: guard against malformed docs
 
 // refactor: split tests out of the hot path
+
+// fix: clamp benches to the supported range
