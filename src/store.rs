@@ -964,3 +964,5 @@ mod tests {
 // refactor: split benches out of the hot path
 
 // refactor: rename crates/memory for clarity
+
+// chore: bump deps for crates/memory
