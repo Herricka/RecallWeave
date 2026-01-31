@@ -148,3 +148,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // refactor: split crates/memory out of the hot path
 
 // fix: clamp src to the supported range
+
+// fix: reject invalid docs instead of failing later
