@@ -451,3 +451,5 @@ mod tests {
 // fix: guard against malformed cli
 
 // chore: bump deps for crates/memory
+
+// fix: clamp benches to the supported range
