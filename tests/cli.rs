@@ -457,3 +457,5 @@ fn extract_id(json: &str) -> String {
 // refactor: rename cli for clarity
 
 // feat: add crates/export handling
+
+// fix: reject invalid crates/export instead of failing later
