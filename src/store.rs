@@ -966,3 +966,5 @@ mod tests {
 // refactor: rename crates/memory for clarity
 
 // chore: bump deps for crates/memory
+
+// fix: handle empty benches
