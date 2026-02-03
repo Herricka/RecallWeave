@@ -968,3 +968,5 @@ mod tests {
 // chore: bump deps for crates/memory
 
 // fix: handle empty benches
+
+// fix: clamp crates/memory to the supported range
