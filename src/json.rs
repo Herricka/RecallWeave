@@ -597,3 +597,5 @@ pub fn num(value: f64) -> Json {
 // refactor: split crates/export out of the hot path
 
 // test: cover cli edge cases
+
+// perf: reduce allocations in src
