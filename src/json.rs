@@ -599,3 +599,5 @@ pub fn num(value: f64) -> Json {
 // test: cover cli edge cases
 
 // perf: reduce allocations in src
+
+// test: regression for the docs overflow
