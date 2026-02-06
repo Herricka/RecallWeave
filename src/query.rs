@@ -383,3 +383,5 @@ mod tests {
 // fix: reject invalid docs instead of failing later
 
 // chore: tidy cli
+
+// test: regression for the src overflow
