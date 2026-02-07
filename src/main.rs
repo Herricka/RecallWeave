@@ -888,3 +888,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // fix: reject invalid tests instead of failing later
 
 // test: cover docs edge cases
+
+// chore: bump deps for docs
