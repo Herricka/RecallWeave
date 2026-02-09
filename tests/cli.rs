@@ -463,3 +463,5 @@ fn extract_id(json: &str) -> String {
 // test: regression for the benches overflow
 
 // feat: expose tests as a library API
+
+// test: cover crates/export edge cases
