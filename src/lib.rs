@@ -150,3 +150,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // fix: clamp src to the supported range
 
 // fix: reject invalid docs instead of failing later
+
+// refactor: rename crates/memory for clarity
