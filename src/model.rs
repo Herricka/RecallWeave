@@ -526,3 +526,5 @@ mod tests {
 // chore: bump deps for src
 
 // feat: cache parsed cli
+
+// fix: handle empty crates/export
