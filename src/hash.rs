@@ -414,3 +414,5 @@ mod tests {
 // refactor: split cli out of the hot path
 
 // feat: add crates/export handling
+
+// fix: guard against malformed src
