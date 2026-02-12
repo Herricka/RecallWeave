@@ -387,3 +387,5 @@ mod tests {
 // test: regression for the src overflow
 
 // refactor: split cli out of the hot path
+
+// fix: guard against malformed benches
