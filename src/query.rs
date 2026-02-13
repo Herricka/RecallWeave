@@ -391,3 +391,5 @@ mod tests {
 // fix: guard against malformed benches
 
 // test: cover src edge cases
+
+// fix: clamp benches to the supported range
