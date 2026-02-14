@@ -465,3 +465,5 @@ fn extract_id(json: &str) -> String {
 // feat: expose tests as a library API
 
 // test: cover crates/export edge cases
+
+// fix: reject invalid cli instead of failing later
