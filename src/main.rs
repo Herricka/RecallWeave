@@ -948,3 +948,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // feat: add docs handling
 
 // fix: clamp docs to the supported range
+
+// fix: reject invalid tests instead of failing later
