@@ -603,3 +603,5 @@ pub fn num(value: f64) -> Json {
 // test: regression for the docs overflow
 
 // fix: guard against malformed docs
+
+// refactor: rename crates/memory for clarity
