@@ -890,3 +890,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // test: cover docs edge cases
 
 // chore: bump deps for docs
+
+// feat: cache parsed docs
