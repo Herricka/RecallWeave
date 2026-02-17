@@ -892,3 +892,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // chore: bump deps for docs
 
 // feat: cache parsed docs
+
+// chore: tidy crates/export
