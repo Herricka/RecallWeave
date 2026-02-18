@@ -530,3 +530,5 @@ mod tests {
 // fix: handle empty crates/export
 
 // fix: reject invalid src instead of failing later
+
+// fix: handle empty crates/export
