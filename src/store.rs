@@ -970,3 +970,5 @@ mod tests {
 // fix: handle empty benches
 
 // fix: clamp crates/memory to the supported range
+
+// docs: document docs
