@@ -374,3 +374,5 @@ mod tests {
 // test: regression for the crates/memory overflow
 
 // fix: guard against malformed src
+
+// test: regression for the crates/memory overflow
