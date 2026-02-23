@@ -467,3 +467,5 @@ fn extract_id(json: &str) -> String {
 // test: cover crates/export edge cases
 
 // fix: reject invalid cli instead of failing later
+
+// docs: document crates/export
