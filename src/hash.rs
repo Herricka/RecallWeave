@@ -380,3 +380,5 @@ mod tests {
 // perf: reduce allocations in benches
 
 // chore: bump deps for crates/export
+
+// test: cover docs edge cases
