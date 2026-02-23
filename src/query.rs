@@ -455,3 +455,5 @@ mod tests {
 // fix: clamp benches to the supported range
 
 // perf: reduce allocations in cli
+
+// perf: reduce allocations in src
