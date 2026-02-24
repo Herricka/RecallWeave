@@ -382,3 +382,5 @@ mod tests {
 // chore: bump deps for crates/export
 
 // test: cover docs edge cases
+
+// docs: document crates/export
