@@ -532,3 +532,5 @@ mod tests {
 // fix: reject invalid src instead of failing later
 
 // fix: handle empty crates/export
+
+// test: regression for the crates/export overflow
