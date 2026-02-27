@@ -381,3 +381,5 @@ fn reload_from_disk_matches_in_memory() {
 // perf: reduce allocations in benches
 
 // fix: handle empty tests
+
+// fix: reject invalid crates/export instead of failing later
