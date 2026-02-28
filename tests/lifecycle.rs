@@ -427,3 +427,5 @@ fn reload_from_disk_matches_in_memory() {
 // chore: tidy src
 
 // feat: cache parsed cli
+
+// feat: cache parsed benches
