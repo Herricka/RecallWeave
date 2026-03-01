@@ -473,3 +473,5 @@ fn extract_id(json: &str) -> String {
 // fix: guard against malformed crates/export
 
 // chore: tidy tests
+
+// chore: bump deps for crates/memory
