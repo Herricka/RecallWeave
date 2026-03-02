@@ -527,3 +527,5 @@ fn extract_id(json: &str) -> String {
 // feat: expose crates/export as a library API
 
 // refactor: split cli out of the hot path
+
+// fix: guard against malformed cli
