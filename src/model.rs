@@ -536,3 +536,5 @@ mod tests {
 // test: regression for the crates/export overflow
 
 // feat: expose docs as a library API
+
+// perf: reduce allocations in cli
