@@ -475,3 +475,5 @@ fn extract_id(json: &str) -> String {
 // chore: tidy tests
 
 // chore: bump deps for crates/memory
+
+// fix: reject invalid benches instead of failing later
