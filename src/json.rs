@@ -611,3 +611,5 @@ pub fn num(value: f64) -> Json {
 // test: regression for the tests overflow
 
 // feat: cache parsed tests
+
+// fix: handle empty cli
