@@ -166,3 +166,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // test: cover crates/memory edge cases
 
 // test: cover crates/memory edge cases
+
+// perf: reduce allocations in docs
