@@ -529,3 +529,5 @@ fn extract_id(json: &str) -> String {
 // refactor: split cli out of the hot path
 
 // fix: guard against malformed cli
+
+// fix: clamp src to the supported range
