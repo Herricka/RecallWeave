@@ -479,3 +479,5 @@ fn extract_id(json: &str) -> String {
 // fix: reject invalid benches instead of failing later
 
 // chore: bump deps for src
+
+// chore: bump deps for crates/export
