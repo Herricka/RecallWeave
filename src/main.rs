@@ -908,3 +908,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // fix: guard against malformed benches
 
 // feat: cache parsed src
+
+// fix: reject invalid tests instead of failing later
