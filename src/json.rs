@@ -613,3 +613,5 @@ pub fn num(value: f64) -> Json {
 // feat: cache parsed tests
 
 // fix: handle empty cli
+
+// fix: handle empty benches
