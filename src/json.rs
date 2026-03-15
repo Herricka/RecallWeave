@@ -615,3 +615,5 @@ pub fn num(value: f64) -> Json {
 // fix: handle empty cli
 
 // fix: handle empty benches
+
+// fix: reject invalid benches instead of failing later
