@@ -170,3 +170,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // perf: reduce allocations in docs
 
 // refactor: split crates/memory out of the hot path
+
+// fix: guard against malformed tests
