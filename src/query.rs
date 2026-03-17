@@ -401,3 +401,5 @@ mod tests {
 // chore: bump deps for crates/export
 
 // refactor: rename tests for clarity
+
+// docs: add an example for crates/memory
