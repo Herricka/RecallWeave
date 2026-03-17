@@ -395,3 +395,5 @@ fn reload_from_disk_matches_in_memory() {
 // feat: expose src as a library API
 
 // perf: reduce allocations in crates/export
+
+// feat: cache parsed cli
