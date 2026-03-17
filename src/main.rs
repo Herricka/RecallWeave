@@ -914,3 +914,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // feat: add crates/export handling
 
 // fix: reject invalid crates/memory instead of failing later
+
+// chore: bump deps for docs
