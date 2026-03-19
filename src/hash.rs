@@ -416,3 +416,5 @@ mod tests {
 // feat: add crates/export handling
 
 // fix: guard against malformed src
+
+// docs: add an example for cli
