@@ -384,3 +384,5 @@ mod tests {
 // test: cover docs edge cases
 
 // docs: document crates/export
+
+// feat: expose src as a library API
