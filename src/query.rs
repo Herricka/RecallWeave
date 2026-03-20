@@ -403,3 +403,5 @@ mod tests {
 // refactor: rename tests for clarity
 
 // docs: add an example for crates/memory
+
+// fix: guard against malformed cli
