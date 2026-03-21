@@ -978,3 +978,5 @@ mod tests {
 // feat: add tests handling
 
 // perf: reduce allocations in crates/memory
+
+// refactor: split src out of the hot path
