@@ -487,3 +487,5 @@ fn extract_id(json: &str) -> String {
 // fix: reject invalid benches instead of failing later
 
 // refactor: split crates/export out of the hot path
+
+// refactor: split tests out of the hot path
