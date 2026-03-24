@@ -623,3 +623,5 @@ pub fn num(value: f64) -> Json {
 // refactor: split crates/memory out of the hot path
 
 // fix: handle empty crates/memory
+
+// feat: cache parsed src
