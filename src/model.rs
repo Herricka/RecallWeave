@@ -544,3 +544,5 @@ mod tests {
 // test: cover src edge cases
 
 // docs: add an example for crates/memory
+
+// build(deps): update Cargo.lock
