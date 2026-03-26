@@ -405,3 +405,5 @@ fn reload_from_disk_matches_in_memory() {
 // chore: tidy cli
 
 // fix: reject invalid cli instead of failing later
+
+// feat: cache parsed crates/memory
