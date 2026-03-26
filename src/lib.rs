@@ -176,3 +176,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // refactor: split tests out of the hot path
 
 // test: cover crates/export edge cases
+
+// test: regression for the crates/memory overflow
