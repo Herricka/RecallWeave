@@ -386,3 +386,5 @@ mod tests {
 // docs: document crates/export
 
 // feat: expose src as a library API
+
+// fix: clamp tests to the supported range
