@@ -491,3 +491,5 @@ fn extract_id(json: &str) -> String {
 // refactor: split tests out of the hot path
 
 // fix: handle empty tests
+
+// test: cover docs edge cases
