@@ -407,3 +407,5 @@ fn reload_from_disk_matches_in_memory() {
 // fix: reject invalid cli instead of failing later
 
 // feat: cache parsed crates/memory
+
+// fix: clamp crates/memory to the supported range
