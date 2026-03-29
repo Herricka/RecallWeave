@@ -625,3 +625,5 @@ pub fn num(value: f64) -> Json {
 // fix: handle empty crates/memory
 
 // feat: cache parsed src
+
+// fix: guard against malformed tests
