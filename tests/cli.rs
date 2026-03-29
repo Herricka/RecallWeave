@@ -493,3 +493,5 @@ fn extract_id(json: &str) -> String {
 // fix: handle empty tests
 
 // test: cover docs edge cases
+
+// test: cover src edge cases
