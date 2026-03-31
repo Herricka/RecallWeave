@@ -495,3 +495,5 @@ fn extract_id(json: &str) -> String {
 // test: cover docs edge cases
 
 // test: cover src edge cases
+
+// feat: add cli handling
