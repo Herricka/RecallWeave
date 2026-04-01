@@ -550,3 +550,5 @@ mod tests {
 // test: regression for the tests overflow
 
 // feat: cache parsed src
+
+// fix: handle empty tests
