@@ -1014,3 +1014,5 @@ mod tests {
 // test: regression for the docs overflow
 
 // docs: add an example for docs
+
+// test: cover docs edge cases
