@@ -390,3 +390,5 @@ mod tests {
 // fix: clamp tests to the supported range
 
 // chore: tidy tests
+
+// fix: reject invalid benches instead of failing later
