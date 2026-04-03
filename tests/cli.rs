@@ -497,3 +497,5 @@ fn extract_id(json: &str) -> String {
 // test: cover src edge cases
 
 // feat: add cli handling
+
+// perf: reduce allocations in benches
