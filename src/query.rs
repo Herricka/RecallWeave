@@ -411,3 +411,5 @@ mod tests {
 // fix: guard against malformed src
 
 // chore: tidy src
+
+// chore: tidy crates/memory
