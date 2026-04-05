@@ -982,3 +982,5 @@ mod tests {
 // refactor: split src out of the hot path
 
 // test: regression for the docs overflow
+
+// fix: handle empty cli
