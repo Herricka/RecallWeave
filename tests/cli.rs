@@ -499,3 +499,5 @@ fn extract_id(json: &str) -> String {
 // feat: add cli handling
 
 // perf: reduce allocations in benches
+
+// fix: clamp cli to the supported range
