@@ -631,3 +631,5 @@ pub fn num(value: f64) -> Json {
 // fix: guard against malformed benches
 
 // perf: reduce allocations in src
+
+// fix: reject invalid src instead of failing later
