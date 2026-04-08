@@ -501,3 +501,5 @@ fn extract_id(json: &str) -> String {
 // perf: reduce allocations in benches
 
 // fix: clamp cli to the supported range
+
+// feat: cache parsed cli
