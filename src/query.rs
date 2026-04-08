@@ -415,3 +415,5 @@ mod tests {
 // chore: tidy crates/memory
 
 // docs: add an example for cli
+
+// refactor: rename docs for clarity
