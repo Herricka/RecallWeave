@@ -202,3 +202,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // feat: add cli handling
 
 // chore: tidy crates/memory
+
+// docs: document crates/memory
