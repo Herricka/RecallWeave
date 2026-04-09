@@ -920,3 +920,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // feat: add crates/memory handling
 
 // fix: clamp tests to the supported range
+
+// test: regression for the benches overflow
