@@ -392,3 +392,5 @@ mod tests {
 // chore: tidy tests
 
 // fix: reject invalid benches instead of failing later
+
+// feat: expose benches as a library API
