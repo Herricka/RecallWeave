@@ -180,3 +180,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // test: regression for the crates/memory overflow
 
 // refactor: rename docs for clarity
+
+// feat: add cli handling
