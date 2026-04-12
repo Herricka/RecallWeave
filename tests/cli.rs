@@ -503,3 +503,5 @@ fn extract_id(json: &str) -> String {
 // fix: clamp cli to the supported range
 
 // feat: cache parsed cli
+
+// refactor: split benches out of the hot path
