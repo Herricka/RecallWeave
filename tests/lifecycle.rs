@@ -411,3 +411,5 @@ fn reload_from_disk_matches_in_memory() {
 // fix: clamp crates/memory to the supported range
 
 // fix: clamp crates/export to the supported range
+
+// feat: expose docs as a library API
