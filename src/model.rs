@@ -560,3 +560,5 @@ mod tests {
 // test: cover docs edge cases
 
 // refactor: rename cli for clarity
+
+// docs: document tests
