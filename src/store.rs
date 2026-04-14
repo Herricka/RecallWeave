@@ -990,3 +990,5 @@ mod tests {
 // docs: add an example for crates/export
 
 // refactor: split tests out of the hot path
+
+// fix: reject invalid benches instead of failing later
