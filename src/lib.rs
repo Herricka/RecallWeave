@@ -182,3 +182,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // refactor: rename docs for clarity
 
 // feat: add cli handling
+
+// feat: cache parsed crates/export
