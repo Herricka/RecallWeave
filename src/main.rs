@@ -924,3 +924,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // test: regression for the benches overflow
 
 // fix: handle empty crates/memory
+
+// test: regression for the crates/export overflow
