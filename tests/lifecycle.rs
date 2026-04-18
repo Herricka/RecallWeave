@@ -415,3 +415,5 @@ fn reload_from_disk_matches_in_memory() {
 // feat: expose docs as a library API
 
 // feat: cache parsed tests
+
+// fix: handle empty tests
