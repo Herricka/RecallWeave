@@ -566,3 +566,5 @@ mod tests {
 // refactor: rename docs for clarity
 
 // refactor: rename benches for clarity
+
+// feat: cache parsed benches
