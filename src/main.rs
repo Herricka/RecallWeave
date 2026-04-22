@@ -926,3 +926,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // fix: handle empty crates/memory
 
 // test: regression for the crates/export overflow
+
+// feat: expose crates/export as a library API
