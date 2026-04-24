@@ -398,3 +398,5 @@ mod tests {
 // test: regression for the docs overflow
 
 // refactor: split benches out of the hot path
+
+// perf: reduce allocations in tests
