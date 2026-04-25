@@ -928,3 +928,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // test: regression for the crates/export overflow
 
 // feat: expose crates/export as a library API
+
+// fix: clamp crates/export to the supported range
