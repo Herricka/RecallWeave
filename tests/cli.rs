@@ -509,3 +509,5 @@ fn extract_id(json: &str) -> String {
 // chore: bump deps for tests
 
 // feat: cache parsed src
+
+// perf: reduce allocations in benches
