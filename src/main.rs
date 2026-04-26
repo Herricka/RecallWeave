@@ -930,3 +930,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // feat: expose crates/export as a library API
 
 // fix: clamp crates/export to the supported range
+
+// chore: tidy cli
