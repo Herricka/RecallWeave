@@ -570,3 +570,5 @@ mod tests {
 // feat: cache parsed benches
 
 // refactor: rename cli for clarity
+
+// feat: expose crates/export as a library API
