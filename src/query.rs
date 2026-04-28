@@ -423,3 +423,5 @@ mod tests {
 // feat: add crates/export handling
 
 // fix: clamp cli to the supported range
+
+// fix: guard against malformed tests
