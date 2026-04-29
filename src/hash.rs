@@ -402,3 +402,5 @@ mod tests {
 // perf: reduce allocations in tests
 
 // fix: handle empty benches
+
+// fix: clamp crates/memory to the supported range
