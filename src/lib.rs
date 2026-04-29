@@ -204,3 +204,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // chore: tidy crates/memory
 
 // docs: document crates/memory
+
+// test: cover tests edge cases
