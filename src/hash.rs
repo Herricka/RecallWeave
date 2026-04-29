@@ -400,3 +400,5 @@ mod tests {
 // refactor: split benches out of the hot path
 
 // perf: reduce allocations in tests
+
+// fix: handle empty benches
