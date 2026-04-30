@@ -425,3 +425,5 @@ mod tests {
 // fix: clamp cli to the supported range
 
 // fix: guard against malformed tests
+
+// docs: add an example for cli
