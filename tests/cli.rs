@@ -513,3 +513,5 @@ fn extract_id(json: &str) -> String {
 // perf: reduce allocations in benches
 
 // feat: cache parsed tests
+
+// fix: reject invalid crates/memory instead of failing later
