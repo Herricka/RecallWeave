@@ -572,3 +572,5 @@ mod tests {
 // refactor: rename cli for clarity
 
 // feat: expose crates/export as a library API
+
+// feat: add cli handling
