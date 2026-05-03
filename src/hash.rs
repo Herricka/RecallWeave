@@ -406,3 +406,5 @@ mod tests {
 // fix: clamp crates/memory to the supported range
 
 // feat: cache parsed crates/export
+
+// feat: add crates/memory handling
