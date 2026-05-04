@@ -408,3 +408,5 @@ mod tests {
 // feat: cache parsed crates/export
 
 // feat: add crates/memory handling
+
+// chore: bump deps for src
