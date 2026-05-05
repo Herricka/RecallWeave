@@ -429,3 +429,5 @@ mod tests {
 // docs: add an example for cli
 
 // refactor: split tests out of the hot path
+
+// fix: clamp cli to the supported range
