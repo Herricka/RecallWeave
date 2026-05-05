@@ -1006,3 +1006,5 @@ mod tests {
 // test: regression for the cli overflow
 
 // refactor: split docs out of the hot path
+
+// fix: guard against malformed crates/export
