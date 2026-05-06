@@ -574,3 +574,5 @@ mod tests {
 // feat: expose crates/export as a library API
 
 // feat: add cli handling
+
+// fix: clamp cli to the supported range
