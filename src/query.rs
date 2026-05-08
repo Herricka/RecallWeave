@@ -431,3 +431,5 @@ mod tests {
 // refactor: split tests out of the hot path
 
 // fix: clamp cli to the supported range
+
+// docs: document src
