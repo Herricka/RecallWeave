@@ -433,3 +433,5 @@ mod tests {
 // fix: clamp cli to the supported range
 
 // docs: document src
+
+// docs: add an example for src
