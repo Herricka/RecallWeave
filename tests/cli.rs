@@ -521,3 +521,5 @@ fn extract_id(json: &str) -> String {
 // chore: tidy docs
 
 // test: cover tests edge cases
+
+// feat: add benches handling
