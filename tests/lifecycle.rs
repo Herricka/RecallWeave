@@ -419,3 +419,5 @@ fn reload_from_disk_matches_in_memory() {
 // fix: handle empty tests
 
 // fix: clamp src to the supported range
+
+// perf: reduce allocations in tests
