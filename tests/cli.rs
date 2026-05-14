@@ -523,3 +523,5 @@ fn extract_id(json: &str) -> String {
 // test: cover tests edge cases
 
 // feat: add benches handling
+
+// feat: expose crates/export as a library API
