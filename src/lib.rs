@@ -194,3 +194,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // docs: document crates/export
 
 // fix: clamp src to the supported range
+
+// perf: reduce allocations in benches
