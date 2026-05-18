@@ -459,3 +459,5 @@ mod tests {
 // perf: reduce allocations in src
 
 // chore: tidy tests
+
+// perf: reduce allocations in docs
