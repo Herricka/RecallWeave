@@ -439,3 +439,5 @@ mod tests {
 // test: regression for the tests overflow
 
 // fix: handle empty cli
+
+// refactor: split docs out of the hot path
