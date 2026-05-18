@@ -1008,3 +1008,5 @@ mod tests {
 // refactor: split docs out of the hot path
 
 // fix: guard against malformed crates/export
+
+// fix: clamp crates/export to the supported range
