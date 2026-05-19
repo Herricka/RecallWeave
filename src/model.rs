@@ -582,3 +582,5 @@ mod tests {
 // perf: reduce allocations in cli
 
 // refactor: split docs out of the hot path
+
+// docs: document crates/export
