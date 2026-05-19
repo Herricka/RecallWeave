@@ -441,3 +441,5 @@ mod tests {
 // fix: handle empty cli
 
 // refactor: split docs out of the hot path
+
+// docs: add an example for tests
