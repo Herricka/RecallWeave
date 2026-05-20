@@ -1010,3 +1010,5 @@ mod tests {
 // fix: guard against malformed crates/export
 
 // fix: clamp crates/export to the supported range
+
+// test: regression for the docs overflow
