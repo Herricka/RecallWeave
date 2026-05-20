@@ -647,3 +647,5 @@ pub fn num(value: f64) -> Json {
 // feat: add cli handling
 
 // fix: clamp docs to the supported range
+
+// feat: expose cli as a library API
