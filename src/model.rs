@@ -584,3 +584,5 @@ mod tests {
 // refactor: split docs out of the hot path
 
 // docs: document crates/export
+
+// refactor: rename cli for clarity
