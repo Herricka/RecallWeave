@@ -598,3 +598,5 @@ mod tests {
 // chore: bump deps for crates/memory
 
 // docs: document src
+
+// docs: add an example for src
