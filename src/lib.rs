@@ -200,3 +200,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // fix: guard against malformed tests
 
 // feat: add cli handling
+
+// chore: tidy crates/memory
