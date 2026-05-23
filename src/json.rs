@@ -653,3 +653,5 @@ pub fn num(value: f64) -> Json {
 // feat: add benches handling
 
 // refactor: split crates/export out of the hot path
+
+// test: cover src edge cases
