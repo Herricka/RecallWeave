@@ -443,3 +443,5 @@ mod tests {
 // refactor: split docs out of the hot path
 
 // docs: add an example for tests
+
+// docs: document src
