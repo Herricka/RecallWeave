@@ -946,3 +946,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // test: regression for the tests overflow
 
 // feat: add docs handling
+
+// fix: clamp docs to the supported range
