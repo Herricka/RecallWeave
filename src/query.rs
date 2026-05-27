@@ -447,3 +447,5 @@ mod tests {
 // docs: document src
 
 // fix: reject invalid benches instead of failing later
+
+// fix: guard against malformed cli
