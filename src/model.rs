@@ -590,3 +590,5 @@ mod tests {
 // test: regression for the tests overflow
 
 // fix: guard against malformed cli
+
+// perf: reduce allocations in docs
