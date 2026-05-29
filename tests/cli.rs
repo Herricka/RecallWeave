@@ -535,3 +535,5 @@ fn extract_id(json: &str) -> String {
 // feat: expose crates/memory as a library API
 
 // fix: handle empty crates/memory
+
+// feat: cache parsed docs
