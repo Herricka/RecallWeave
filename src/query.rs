@@ -453,3 +453,5 @@ mod tests {
 // chore: bump deps for crates/memory
 
 // fix: clamp benches to the supported range
+
+// perf: reduce allocations in cli
