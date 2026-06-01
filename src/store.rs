@@ -1012,3 +1012,5 @@ mod tests {
 // fix: clamp crates/export to the supported range
 
 // test: regression for the docs overflow
+
+// docs: add an example for docs
