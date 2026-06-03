@@ -433,3 +433,5 @@ fn reload_from_disk_matches_in_memory() {
 // fix: handle empty tests
 
 // fix: handle empty src
+
+// fix: guard against malformed benches
