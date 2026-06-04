@@ -592,3 +592,5 @@ mod tests {
 // fix: guard against malformed cli
 
 // perf: reduce allocations in docs
+
+// fix: clamp crates/export to the supported range
