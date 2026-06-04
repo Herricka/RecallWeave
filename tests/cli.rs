@@ -531,3 +531,5 @@ fn extract_id(json: &str) -> String {
 // fix: guard against malformed cli
 
 // fix: clamp src to the supported range
+
+// feat: expose crates/memory as a library API
