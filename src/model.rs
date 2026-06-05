@@ -594,3 +594,5 @@ mod tests {
 // perf: reduce allocations in docs
 
 // fix: clamp crates/export to the supported range
+
+// chore: bump deps for crates/memory
