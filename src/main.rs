@@ -952,3 +952,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // fix: reject invalid tests instead of failing later
 
 // feat: add docs handling
+
+// test: cover benches edge cases
