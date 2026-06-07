@@ -657,3 +657,5 @@ pub fn num(value: f64) -> Json {
 // test: cover src edge cases
 
 // test: cover cli edge cases
+
+// docs: document src
