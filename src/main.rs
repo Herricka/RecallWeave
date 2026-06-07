@@ -954,3 +954,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // feat: add docs handling
 
 // test: cover benches edge cases
+
+// feat: expose crates/memory as a library API
