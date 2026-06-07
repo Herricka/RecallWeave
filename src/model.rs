@@ -596,3 +596,5 @@ mod tests {
 // fix: clamp crates/export to the supported range
 
 // chore: bump deps for crates/memory
+
+// docs: document src
