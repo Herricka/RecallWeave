@@ -431,3 +431,5 @@ fn reload_from_disk_matches_in_memory() {
 // feat: cache parsed benches
 
 // fix: handle empty tests
+
+// fix: handle empty src
