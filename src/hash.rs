@@ -420,3 +420,5 @@ mod tests {
 // docs: add an example for cli
 
 // fix: clamp crates/memory to the supported range
+
+// feat: add src handling
