@@ -461,3 +461,5 @@ mod tests {
 // chore: tidy tests
 
 // perf: reduce allocations in docs
+
+// fix: clamp crates/memory to the supported range
