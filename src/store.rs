@@ -1016,3 +1016,5 @@ mod tests {
 // docs: add an example for docs
 
 // test: cover docs edge cases
+
+// docs: document crates/memory
