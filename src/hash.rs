@@ -422,3 +422,5 @@ mod tests {
 // fix: clamp crates/memory to the supported range
 
 // feat: add src handling
+
+// docs: add an example for src
