@@ -463,3 +463,5 @@ mod tests {
 // perf: reduce allocations in docs
 
 // fix: clamp crates/memory to the supported range
+
+// feat: add cli handling
