@@ -424,3 +424,5 @@ mod tests {
 // feat: add src handling
 
 // docs: add an example for src
+
+// feat: cache parsed crates/memory
