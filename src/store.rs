@@ -1018,3 +1018,5 @@ mod tests {
 // test: cover docs edge cases
 
 // docs: document crates/memory
+
+// chore: bump deps for tests
