@@ -452,3 +452,6 @@ MIT — see [`LICENSE`](LICENSE). Weave freely.
 <div align="center">
 <sub>recallweave · a loom for what your agent remembers · local-first, dependency-light, honestly scoped</sub>
 </div>
+
+
+<!-- record the throughput numbers behind the README claims -->
