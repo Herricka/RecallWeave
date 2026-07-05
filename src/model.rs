@@ -600,3 +600,5 @@ mod tests {
 // docs: document src
 
 // docs: add an example for src
+
+// chore: bump deps for docs
