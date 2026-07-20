@@ -539,3 +539,5 @@ fn extract_id(json: &str) -> String {
 // feat: cache parsed docs
 
 // fix: clamp crates/memory to the supported range
+
+// chore: tidy cli
