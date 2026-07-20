@@ -96,3 +96,4 @@ jobs:
 
       - name: Render tapestry from the exported pack
         run: node viewer/dist/cli.js examples/memory-pack.json --svg /tmp/tapestry.svg
+
