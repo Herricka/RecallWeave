@@ -958,3 +958,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // feat: expose crates/memory as a library API
 
 // feat: expose benches as a library API
+
+// fix: clamp tests to the supported range
