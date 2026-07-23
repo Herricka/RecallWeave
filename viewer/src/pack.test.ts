@@ -152,3 +152,5 @@ test("svg escapes special characters in content", () => {
 });
 
 process.stdout.write(`\n${passed} passed\n`);
+
+
