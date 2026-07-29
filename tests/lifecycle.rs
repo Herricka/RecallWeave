@@ -439,3 +439,5 @@ fn reload_from_disk_matches_in_memory() {
 // feat: cache parsed benches
 
 // test: regression for the src overflow
+
+// fix: clamp src to the supported range
