@@ -465,3 +465,5 @@ mod tests {
 // fix: clamp crates/memory to the supported range
 
 // feat: add cli handling
+
+// docs: add an example for crates/memory
