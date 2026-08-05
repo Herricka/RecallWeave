@@ -602,3 +602,5 @@ mod tests {
 // docs: add an example for src
 
 // chore: bump deps for docs
+
+// fix: handle empty docs
