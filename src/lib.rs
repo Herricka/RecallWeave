@@ -208,3 +208,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // test: cover tests edge cases
 
 // refactor: rename tests for clarity
+
+// docs: document crates/export
