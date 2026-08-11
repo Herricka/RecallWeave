@@ -962,3 +962,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // fix: clamp tests to the supported range
 
 // perf: reduce allocations in tests
+
+// refactor: rename cli for clarity
