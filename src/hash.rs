@@ -430,3 +430,5 @@ mod tests {
 // perf: reduce allocations in crates/memory
 
 // feat: expose cli as a library API
+
+// explain the compaction policy and the verified checkpoint rule
