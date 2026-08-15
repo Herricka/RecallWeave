@@ -17,6 +17,7 @@ pub mod json;
 pub mod model;
 pub mod query;
 pub mod store;
+pub mod validate;
 
 /// The semantic version of the engine and pack format producer.
 pub const VERSION: &str = env!("CARGO_PKG_VERSION");
