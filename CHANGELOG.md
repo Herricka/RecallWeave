@@ -64,3 +64,6 @@ The first release: a complete, self-contained memory lifecycle engine.
 See `docs/MEMORY.md` for the full, honest limitations discussion.
 
 [0.1.0]: https://example.com/recallweave/releases/tag/v0.1.0
+
+
+<!-- explain the compaction policy and the verified checkpoint rule -->
