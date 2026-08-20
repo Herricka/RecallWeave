@@ -201,3 +201,6 @@ These are deliberate choices for a small, auditable, local‑first tool. If your
 use case needs semantic recall, run recallweave *alongside* a vector store: use
 recallweave for the lifecycle (provenance, TTL, supersession, tombstones,
 integrity) and the vector store for similarity search.
+
+
+<!-- clarify the metadata block -->
