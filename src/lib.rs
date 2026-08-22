@@ -210,3 +210,5 @@ pub const VERSION: &str = env!("CARGO_PKG_VERSION");
 // refactor: rename tests for clarity
 
 // docs: document crates/export
+
+// record the throughput numbers behind the README claims
