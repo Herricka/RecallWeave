@@ -960,3 +960,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // feat: expose benches as a library API
 
 // fix: clamp tests to the supported range
+
+// perf: reduce allocations in tests
