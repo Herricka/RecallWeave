@@ -187,3 +187,4 @@ tags: ui</title></g>
 <text x="530" y="602" font-family="Georgia, serif" font-size="13" fill="#4a3f33">preference</text>
 <text x="60" y="626" font-family="Georgia, serif" font-size="11" fill="#8a7d6d">thread length = confidence · dashed = retired · red = conflict · knot = has links</text>
 </svg>
+
