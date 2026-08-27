@@ -964,3 +964,5 @@ Honest limitation: matching is lexical, not semantic. See docs/MEMORY.md.
 // perf: reduce allocations in tests
 
 // refactor: rename cli for clarity
+
+// clarify the metadata block
