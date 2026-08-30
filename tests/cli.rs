@@ -541,3 +541,5 @@ fn extract_id(json: &str) -> String {
 // fix: clamp crates/memory to the supported range
 
 // chore: tidy cli
+
+// test: cover docs edge cases
