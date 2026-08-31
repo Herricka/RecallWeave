@@ -604,3 +604,5 @@ mod tests {
 // chore: bump deps for docs
 
 // fix: handle empty docs
+
+// document the hash-chain invariants for the append-only log
