@@ -48,3 +48,6 @@ node dist/cli.js ../examples/memory-pack.json --svg tapestry.svg # woven SVG
 
 The committed `docs/assets/tapestry-demo.svg` is exactly this pack rendered by
 the viewer.
+
+
+<!-- document the hash-chain invariants for the append-only log -->
