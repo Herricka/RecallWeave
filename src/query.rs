@@ -467,3 +467,5 @@ mod tests {
 // feat: add cli handling
 
 // docs: add an example for crates/memory
+
+// docs: add an example for tests
