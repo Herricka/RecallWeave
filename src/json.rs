@@ -665,3 +665,5 @@ pub fn num(value: f64) -> Json {
 // fix: clamp docs to the supported range
 
 // test: cover docs edge cases
+
+// document the export format and its portability guarantees
