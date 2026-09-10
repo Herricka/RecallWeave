@@ -426,3 +426,5 @@ mod tests {
 // docs: add an example for src
 
 // feat: cache parsed crates/memory
+
+// perf: reduce allocations in crates/memory
