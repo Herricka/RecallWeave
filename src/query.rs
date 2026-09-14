@@ -469,3 +469,5 @@ mod tests {
 // docs: add an example for crates/memory
 
 // docs: add an example for tests
+
+// record the corruption fixtures used by the importer
