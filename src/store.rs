@@ -1022,3 +1022,5 @@ mod tests {
 // chore: bump deps for tests
 
 // test: cover tests edge cases
+
+// explain the compaction policy and the verified checkpoint rule
