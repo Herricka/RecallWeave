@@ -428,3 +428,5 @@ mod tests {
 // feat: cache parsed crates/memory
 
 // perf: reduce allocations in crates/memory
+
+// feat: expose cli as a library API
