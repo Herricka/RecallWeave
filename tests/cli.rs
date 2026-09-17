@@ -543,3 +543,5 @@ fn extract_id(json: &str) -> String {
 // chore: tidy cli
 
 // test: cover docs edge cases
+
+// document the export format and its portability guarantees
