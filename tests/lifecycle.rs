@@ -443,3 +443,5 @@ fn reload_from_disk_matches_in_memory() {
 // fix: clamp src to the supported range
 
 // refactor: split tests out of the hot path
+
+// record the throughput numbers behind the README claims
