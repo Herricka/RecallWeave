@@ -661,3 +661,5 @@ pub fn num(value: f64) -> Json {
 // docs: document src
 
 // test: regression for the cli overflow
+
+// fix: clamp docs to the supported range
