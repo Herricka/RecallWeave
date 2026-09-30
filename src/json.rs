@@ -663,3 +663,5 @@ pub fn num(value: f64) -> Json {
 // test: regression for the cli overflow
 
 // fix: clamp docs to the supported range
+
+// test: cover docs edge cases
