@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧵 recallweave
+# 🧵 RecallWeave
 
 ### a local-first agent memory lifecycle engine
 
@@ -26,7 +26,7 @@ over its lifetime:
 - Has anyone tampered with what I remember?
 - Can I hand my whole memory to another tool without leaking the machinery?
 
-**recallweave is the loom, not the thread.** It is the *lifecycle* layer: it
+**RecallWeave is the loom, not the thread.** It is the *lifecycle* layer: it
 gives every memory an identity, a provenance, a confidence, a time-to-live, and a
 place in an append-only, tamper-evident weave. It dedupes, detects conflicts,
 forgets on schedule, compacts, verifies its own integrity, and exports a portable
@@ -38,7 +38,7 @@ It is written in **Rust with the standard library only** — no `serde`, no
 chain, is a few hundred lines you can audit in an afternoon. The companion
 **tapestry viewer** is **TypeScript** and consumes only the exported pack.
 
-> **What it is not.** recallweave does **no semantic search**. Matching is
+> **What it is not.** RecallWeave does **no semantic search**. Matching is
 > lexical. It is a lifecycle engine you run *beside* a vector store, not a
 > replacement for one. The [honest limitations](#-honest-limitations) section
 > means every word of that.
@@ -72,9 +72,9 @@ Once a row is beaten into place it is *fixed*; you do not go back and re-thread
 it. To change the finished cloth you either weave *more* on top, or you cut a
 thread and let it fray.
 
-recallweave takes that literally:
+RecallWeave takes that literally:
 
-| loom                        | recallweave                                              |
+| loom                        | RecallWeave                                              |
 |-----------------------------|----------------------------------------------------------|
 | a pass of the shuttle       | appending one event to the log                           |
 | a weft thread               | a single memory                                          |
@@ -104,8 +104,8 @@ You need a Rust toolchain (1.74+). Node 18+ is only needed for the viewer.
 # build the engine
 cargo build --release
 
-# point every command at a store directory with --dir (default: .recallweave)
-alias rw='./target/release/recallweave --dir mymemory'
+# point every command at a store directory with --dir (default: .RecallWeave)
+alias rw='./target/release/RecallWeave --dir mymemory'
 
 # weave in some memories
 rw add --kind semantic   --content "prod region is eu-west-1" --tags infra,region
@@ -138,7 +138,7 @@ node dist/cli.js ../memory-pack.json --svg tapestry.svg
 
 ## 🎨 The threads: memory kinds
 
-recallweave is *typed on purpose*. A memory's kind changes how you should treat
+RecallWeave is *typed on purpose*. A memory's kind changes how you should treat
 it, so the type is first-class rather than a free-text tag.
 
 - **🟢 semantic** — durable facts. *"The prod region is eu-west-1."* These are the
@@ -163,7 +163,7 @@ dedupe, and lifecycle fields (`ttl_secs`, `supersedes`, `superseded_by`,
 
 ## 🧶 The loom: the append-only weave
 
-The store is a directory (default `.recallweave/`) holding a single
+The store is a directory (default `.RecallWeave/`) holding a single
 `log.jsonl` — **one JSON event per line, in the order it happened.** Three event
 types are ever written:
 
@@ -318,7 +318,7 @@ and all user content is XML-escaped (there is a test for a `<script>` payload).
 
 ## 📖 Command reference
 
-Every command takes `--dir <path>` (default `.recallweave`), an optional
+Every command takes `--dir <path>` (default `.RecallWeave`), an optional
 `--now <epoch>` to pin the clock for reproducible runs, and `--json` where a
 machine-readable form makes sense.
 
@@ -338,7 +338,7 @@ machine-readable form makes sense.
 | `stats`                    | summarize the store                                             |
 | `help`, `version`          | the usual                                                       |
 
-Run `recallweave help` for the full flag list.
+Run `RecallWeave help` for the full flag list.
 
 ---
 
@@ -380,14 +380,14 @@ episodic note with a one-day TTL — the exact scene both README panels illustra
 
 ## ⚠️ Honest limitations
 
-Read this. It is the difference between using recallweave well and being
+Read this. It is the difference between using RecallWeave well and being
 surprised by it.
 
 - **No semantic matching, at all.** Dedupe, conflict detection, and
   `query --contains` are **purely lexical**. *"Prefers dark theme"* and *"wants a
   dark colour scheme"* are unrelated strings to this engine. No embeddings, no
   vectors, no synonyms, no paraphrase detection. If you need similarity search,
-  run a vector store alongside recallweave and let each do what it is good at.
+  run a vector store alongside RecallWeave and let each do what it is good at.
 - **The conflict detector is a small heuristic.** Preference-polarity uses a
   hand-curated antonym table plus a shared-token check. It misses conflicts
   phrased outside the table and can false-positive on coincidental antonyms. It
@@ -423,7 +423,7 @@ make clean     # remove build artifacts
 ```
 
 ```
-recallweave/
+RecallWeave/
 ├── src/                    # Rust engine (stdlib only)
 │   ├── json.rs             #   hand-written JSON codec
 │   ├── hash.rs             #   FNV fingerprints + 256-bit digest chain
@@ -450,7 +450,7 @@ recallweave/
 MIT — see [`LICENSE`](LICENSE). Weave freely.
 
 <div align="center">
-<sub>recallweave · a loom for what your agent remembers · local-first, dependency-light, honestly scoped</sub>
+<sub>RecallWeave · a loom for what your agent remembers · local-first, dependency-light, honestly scoped</sub>
 </div>
 
 
