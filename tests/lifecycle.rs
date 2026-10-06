@@ -441,3 +441,5 @@ fn reload_from_disk_matches_in_memory() {
 // test: regression for the src overflow
 
 // fix: clamp src to the supported range
+
+// refactor: split tests out of the hot path
