@@ -155,3 +155,59 @@ mod tests {
         assert_eq!(validate_segment(&[]), Ok(()));
     }
 }
+
+
+/// A segment-scoped rejection: which file the bad record came from, and where.
+#[derive(Debug, PartialEq, Eq)]
+pub struct SegmentReport {
+    pub path: String,
+    pub index: usize,
+    pub reason: Rejection,
+}
+
+impl std::fmt::Display for SegmentReport {
+    fn fmt(&self, f: &mut std::fmt::Formatter<'_>) -> std::fmt::Result {
+        write!(f, "{}: record {}: {}", self.path, self.index, self.reason)
+    }
+}
+
+impl std::error::Error for SegmentReport {}
+
+/// Validate one named segment, attaching the path to any rejection.
+pub fn validate_named(path: &str, records: &[RawRecord]) -> Result<(), SegmentReport> {
+    validate_segment(records).map_err(|(index, reason)| SegmentReport {
+        path: path.to_string(),
+        index,
+        reason,
+    })
+}
+
+#[cfg(test)]
+mod segment_tests {
+    use super::*;
+
+    fn good() -> RawRecord {
+        RawRecord {
+            kind: "assert".into(),
+            id: "mem-1".into(),
+            body: "prefers metric units".into(),
+            score: Some(0.5),
+            recorded_at: Some(1),
+        }
+    }
+
+    #[test]
+    fn names_the_failing_segment() {
+        let mut bad = good();
+        bad.kind = String::new();
+        let segment = vec![good(), bad];
+        let err = validate_named("pack/2026-08.jsonl", &segment).unwrap_err();
+        assert_eq!(err.path, "pack/2026-08.jsonl");
+        assert_eq!(err.index, 1);
+    }
+
+    #[test]
+    fn accepts_a_named_segment() {
+        assert!(validate_named("pack/ok.jsonl", &[good()]).is_ok());
+    }
+}
